@@ -22,7 +22,7 @@ permalink: "/cv/"
 
 # RESEARCH EXPERIENCE
 
-### [Research Project] Mapping Spatial Transcriptome of an Entire Vertebrate Brain
+### [Research] Mapping Spatial Transcriptome of an Entire Vertebrate Brain
 
 **MIT, Brain and Cognitive Sciences, Cambridge, MA**
 
@@ -32,31 +32,33 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 
 • Developed bioinformatic tools which selected cell type marker genes in R and Python.
 
-### [Course project] Affect Encoding in Word Embeddings
+### [Course] Affect Encoding in Word Embeddings
 
-**MIT, Cambridge, MA, Sept.2021-Nov.2021**
-
-• Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
-
-• Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
-
-### [Course project] Affect Encoding in Word Embeddings
-
-**MIT, Cambridge, MA, Sept.2021-Nov.2021**
+**Sept.2021-Nov.2021. MIT, Cambridge, MA.**
 
 • Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
 
 • Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
 
-### [Research project]  AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
+### [Course] Affect Encoding in Word Embeddings
 
-**MIT, Brain and Cognitive Sciences, Cambridge, MA, Apr.2018-July.2022**
+**Sept.2021-Nov.2021. MIT, Cambridge, MA.**
+
+• Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
+
+• Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
+
+### [Research]  AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
+
+**Apr.2018-July.2022. MIT, Brain and Cognitive Sciences, Cambridge, MA**
 
 • Initiated and led the collaboration with a computer vision group to adapt multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
 
 • Supervised the development of a JavaScript and HTML based UI for result inspection and interactive correction of the tracking errors, which enables high-throughput behavioral analysis.
 
-### 2018.4-2019.2 Massachusetts Institute of Technology
+### 
+
+ Massachusetts Institute of Technology, 2018.4-2019.2
 
 - Visiting Student, Dept. of Brain and Cognitive Sciences
 - Topics: Neural circuit dynamics of prefrontal regulation of dominance via the lateral hypothalamus; Automatic multi-mice tracking and behavioral identification
@@ -87,7 +89,20 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 
 # PUBLICATION
 
-- Sun, T., Gao, Y., Li, J., Zhang, Z., Zhang, R., and Pollock, A. (2018). MicroRNA miR-7 and miR-17-92 in POMC neurons are associated with sex-specific regulation of diet-induced obesity. BioRxiv 366419.
+- Goodwin, D.R., Vaughan, A., Leibel, D., Alon, S., Henry, G.L., Cheng, A., Chen, X., \textbf{Zhang, R. }, Xue, A.G., Wassie, A.T., Sinha, A., Bando, Y., Kajita, A., Marblestone, A.H., Zador, A.M., Boyden, E.S., Church, G.M., Kohman, R.E., Expansion Sequencing of RNA Barcoded Neurons in the Mammalian Brain: Progress and Implications for Molecularly Annotated Connectomics (Submitted to Biorxiv)
+
+- Lauenburg, L., Lin, Z., \textbf{Zhang, R.}, Santos, M.D., Huang, S., Arganda-Carreras, I., Boyden, E.S., Pfister, H. and Wei, D., 2022. Instance Segmentation of Unlabeled Modalities via Cyclic Segmentation GAN. arXiv preprint arXiv:2204.03082
+
+- Presentation: Zhang, Y., Chen, W., \textbf{Zhang, R.}, Zhang, X., 2022. Affect encoding in word embedding, Experiments in Linguistic Meaning conference. https://www.elm-conference.net/elm-2/
+
+- \textbf{Zhang, R.}, 2021. \textmd{Towards Mapping Spatial Transcriptome of an entire vertebrate brain. (Master thesis) DSpace@MIT.}
+
+- Padilla-Coreano, N., Batra, K., Patarino, M., Chen, Z., Rock, R.R., \textbf{Zhang, R.}, Hausmann, S.B., Weddington, J.C., Patel, R., Zhang, Y.E. and Fang, H.S., 2022. Cortical ensembles orchestrate social competition through hypothalamic outputs. Nature, 603(7902), pp.667-671.
+
+- Chen, Z., \textbf{Zhang, R.}, Zhang, Y.E., Zhou, H., Fang, H.S., Rock, R.R., Bal, A., Padilla-Coreano, N., Keyes, L., Tye, K.M. and Lu, C., 2020. AlphaTracker: a multi-animal tracking and behavioral analysis tool. Biorxiv.
+
+- Gao, Y., Li, J., Zhang, Z., \textbf{Zhang, R.}, Pollock, A. and Sun, T., 2019. MicroRNA miR-7 and miR-17-92 in the arcuate nucleus of Mouse Hypothalamus regulate sex-specific diet-induced obesity. Molecular Neurobiology, 56(11), pp.7508-7521.
+
 
 # AWARDS & SCHOLARSHIP
 
