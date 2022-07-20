@@ -24,7 +24,7 @@ permalink: "/cv/"
 
 ### Sept.2021-Nov.2021 Course project, Affect Encoding in Word Embeddings
 
-Massachusetts Institute of Technology, Cambridge, MA 
+**Massachusetts Institute of Technology, Cambridge, MA**
 
 • Studied how contextualized word embedding encodes richer affective information compared to static word embeddings.
 
