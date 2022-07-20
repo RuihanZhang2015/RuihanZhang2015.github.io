@@ -8,3 +8,5 @@ Welcome to my personal website! I am a PhD student at Massachusetts Institute of
 My training in neuroscience shows me the power of eliciting emotion and thoughts with well-designed visual and audio stimuli (especially on mice hahahah). To practice this belief, I started as an amateur film director (Check out my films!). Recently, I founded the [MIT Film Makers Assocation](https://filmmakers.mit.edu/) in the hope to get my fellow MIT friends interested in expressing themselves and resonating with other souls across space and time.
 
 Feel free to contact me if you are interested in learning more: [ruihanzhang2015@gmail.com](mailto:ruihanzhang2015@gmail.com)
+
+![My photo](){: .align-center; width="50%"}
