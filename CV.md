@@ -65,7 +65,8 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 - Advisor: Kay Tye, PhD
 - Highlights: I mastered optogenetic experimental methods from surgeries to behavioral assays and histology. I also pioneered several dominance-related assays as well. Moreover, I lead a collaboration with Prof. Cewu Lu’s Lab in SJTU to use deep learning to automate multi-mice tracking and behavioral identification.
 
-### 2018.1- 2018.3 University of Cambridge
+### The electrophysiological properties of maturing hippocampal neurons
+**2018.1- 2018.3 University of Cambridge**
 
 - Visiting student, Dept. of Physiology, Development and Neuroscience
 - Topics: The electrophysiological properties of maturing hippocampal neurons
@@ -79,7 +80,8 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 - Advisor: Yiyang Gong, PhD
 - Highlights: I adapted the algorithm called PCA/ICA (principle/independence component analysis) and CNMFE (constrained non-negative matrix factorization) previously used for mice for our zebrafish setup. I taught myself linear algebra and dug into all the mathematical details behind the algorithm.
 
-### 2016.2-2018.1 Shanghai Jiao Tong University
+### Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
+**2016.2-2018.1 Shanghai Jiao Tong University**
 
 - Undergraduate research, School of Life Sciences and biotechnology
 - Topic: Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
