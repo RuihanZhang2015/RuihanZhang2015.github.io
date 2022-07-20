@@ -1,3 +1,9 @@
+---
+layout: page
+title: "CV"
+permalink: "/cv/"
+---
+
 # EDUCATION
 
 ### 2015-2019 Shanghai Jiao Tong University
