@@ -32,13 +32,7 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 
 • Developed bioinformatic tools which selected cell type marker genes in R and Python.
 
-### [Course] Affect Encoding in Word Embeddings
-
-**Sept.2021-Nov.2021. MIT, Cambridge, MA.**
-
-• Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
-
-• Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
+<br>
 
 ### [Course] Affect Encoding in Word Embeddings
 
@@ -47,6 +41,18 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 • Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
 
 • Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
+
+<br>
+
+### [Course] Affect Encoding in Word Embeddings
+
+**Sept.2021-Nov.2021. MIT, Cambridge, MA.**
+
+• Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
+
+• Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
+
+<br>
 
 ### [Research]  AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
 
@@ -55,6 +61,8 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 • Initiated and led the collaboration with a computer vision group to adapt multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
 
 • Supervised the development of a JavaScript and HTML based UI for result inspection and interactive correction of the tracking errors, which enables high-throughput behavioral analysis.
+
+<br>
 
 ### 
 
@@ -65,6 +73,9 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 - Advisor: Kay Tye, PhD
 - Highlights: I mastered optogenetic experimental methods from surgeries to behavioral assays and histology. I also pioneered several dominance-related assays as well. Moreover, I lead a collaboration with Prof. Cewu Lu’s Lab in SJTU to use deep learning to automate multi-mice tracking and behavioral identification.
 
+
+<br>
+
 ### The electrophysiological properties of maturing hippocampal neurons
 **2018.1- 2018.3 University of Cambridge**
 
@@ -73,12 +84,18 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 - Advisor: Ole Paulsen, MD, PhD
 - Highlights: It is very kind of Prof. Old Paulsen to let me learn electrophysiology! After two weeks of learning whole-cell patch clamping on cell culture, I patched hippocampal neurons of different cell types and developmental stages from both sides. Then I wrote MATLAB scripts to analyze their electrophysiological properties from raw traces I collected.
 
+
+<br>
+
+
 ### 2017.7-2017.8 Duke University
 
 - Summer Internship, Dept. of Biomedical Engineering
 - Topic: Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye.
 - Advisor: Yiyang Gong, PhD
 - Highlights: I adapted the algorithm called PCA/ICA (principle/independence component analysis) and CNMFE (constrained non-negative matrix factorization) previously used for mice for our zebrafish setup. I taught myself linear algebra and dug into all the mathematical details behind the algorithm.
+
+<br>
 
 ### Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
 **2016.2-2018.1 Shanghai Jiao Tong University**
