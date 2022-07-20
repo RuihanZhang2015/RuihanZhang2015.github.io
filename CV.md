@@ -61,8 +61,14 @@ permalink: "/cv/"
     
     First prize, Jiangsu Province
     
-- 2014 China High School Biology Olympiad，First prize, Jiangsu Province
-- 2014 Chinese Mathematical Olympiad in Senior，First prize, Jiangsu Province
+- 2014 China High School Biology Olympiad，
+
+    First prize, Jiangsu Province
+    
+- 2014 Chinese Mathematical Olympiad in Senior，
+
+    First prize, Jiangsu Province
+    
 - 2014 Chinese Chemistry Olympiad，Bronze medal, National Final
     
     I was the first student from my high school in the past 10 years to enter the National Final
@@ -72,6 +78,7 @@ permalink: "/cv/"
     Awarded to students who are top 10%  in GPA in Zhiyuan College, the rate national wide is 2/1000
     
 - 2016, 2017 Zhiyuan Honor Scholarship
+
 - 2016 - present Tanglixin Scholarship
     
     A very competitive scholarship sponsored by a Chinese entrepreneur Mr. Lixin Tang. Once awarded,  the   student will be sponsored annually until graduation.
