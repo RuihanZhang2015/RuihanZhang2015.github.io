@@ -22,17 +22,21 @@ permalink: "/cv/"
 
 # RESEARCH EXPERIENCE
 
-### Sept.2021-Nov.2021 Course project, Affect Encoding in Word Embeddings
+### [Course project] Affect Encoding in Word Embeddings
 
 **Massachusetts Institute of Technology, Cambridge, MA**
+
+**Sept.2021-Nov.2021**
 
 • Studied how contextualized word embedding encodes richer affective information compared to static word embeddings.
 
 • Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
 
-### Apr.2018-July.2022 Research project, AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
+### [Research project]  AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
 
 **Massachusetts Institute of Technology, Brain and Cognitive Sciences, Cambridge, MA** 
+
+**Apr.2018-July.2022**
 
 • Initiated and led the collaboration with a computer vision group to adapt multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
 
