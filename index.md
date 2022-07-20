@@ -2,6 +2,7 @@
 layout: default
 title: "Home"
 ---
+hello
 
 {% if site.show_excerpts %}
   {% include home.html %}
