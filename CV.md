@@ -91,19 +91,19 @@ Jan. 2020-present • Designed and led the project to map the RNA expression pro
 
 # PUBLICATION
 
-- Goodwin, D.R., Vaughan, A., Leibel, D., Alon, S., Henry, G.L., Cheng, A., Chen, X., \textbf{Zhang, R. }, Xue, A.G., Wassie, A.T., Sinha, A., Bando, Y., Kajita, A., Marblestone, A.H., Zador, A.M., Boyden, E.S., Church, G.M., Kohman, R.E., Expansion Sequencing of RNA Barcoded Neurons in the Mammalian Brain: Progress and Implications for Molecularly Annotated Connectomics (Submitted to Biorxiv)
+- Goodwin, D.R., Vaughan, A., Leibel, D., Alon, S., Henry, G.L., Cheng, A., Chen, X., **Zhang, R.**, Xue, A.G., Wassie, A.T., Sinha, A., Bando, Y., Kajita, A., Marblestone, A.H., Zador, A.M., Boyden, E.S., Church, G.M., Kohman, R.E., Expansion Sequencing of RNA Barcoded Neurons in the Mammalian Brain: Progress and Implications for Molecularly Annotated Connectomics (Submitted to Biorxiv)
 
-- Lauenburg, L., Lin, Z., \textbf{Zhang, R.}, Santos, M.D., Huang, S., Arganda-Carreras, I., Boyden, E.S., Pfister, H. and Wei, D., 2022. Instance Segmentation of Unlabeled Modalities via Cyclic Segmentation GAN. arXiv preprint arXiv:2204.03082
+- Lauenburg, L., Lin, Z., **Zhang, R.**, Santos, M.D., Huang, S., Arganda-Carreras, I., Boyden, E.S., Pfister, H. and Wei, D., 2022. Instance Segmentation of Unlabeled Modalities via Cyclic Segmentation GAN. arXiv preprint arXiv:2204.03082
 
-- Presentation: Zhang, Y., Chen, W., \textbf{Zhang, R.}, Zhang, X., 2022. Affect encoding in word embedding, Experiments in Linguistic Meaning conference. https://www.elm-conference.net/elm-2/
+- Presentation: Zhang, Y., Chen, W., **Zhang, R.**, Zhang, X., 2022. Affect encoding in word embedding, Experiments in Linguistic Meaning conference. https://www.elm-conference.net/elm-2/
 
-- \textbf{Zhang, R.}, 2021. \textmd{Towards Mapping Spatial Transcriptome of an entire vertebrate brain. (Master thesis) DSpace@MIT.}
+- **Zhang, R.**, 2021. Towards Mapping Spatial Transcriptome of an entire vertebrate brain. (Master thesis) DSpace@MIT.
 
-- Padilla-Coreano, N., Batra, K., Patarino, M., Chen, Z., Rock, R.R., \textbf{Zhang, R.}, Hausmann, S.B., Weddington, J.C., Patel, R., Zhang, Y.E. and Fang, H.S., 2022. Cortical ensembles orchestrate social competition through hypothalamic outputs. Nature, 603(7902), pp.667-671.
+- Padilla-Coreano, N., Batra, K., Patarino, M., Chen, Z., Rock, R.R., **Zhang, R.**, Hausmann, S.B., Weddington, J.C., Patel, R., Zhang, Y.E. and Fang, H.S., 2022. Cortical ensembles orchestrate social competition through hypothalamic outputs. Nature, 603(7902), pp.667-671.
 
-- Chen, Z., \textbf{Zhang, R.}, Zhang, Y.E., Zhou, H., Fang, H.S., Rock, R.R., Bal, A., Padilla-Coreano, N., Keyes, L., Tye, K.M. and Lu, C., 2020. AlphaTracker: a multi-animal tracking and behavioral analysis tool. Biorxiv.
+- Chen, Z., **Zhang, R.**, Zhang, Y.E., Zhou, H., Fang, H.S., Rock, R.R., Bal, A., Padilla-Coreano, N., Keyes, L., Tye, K.M. and Lu, C., 2020. AlphaTracker: a multi-animal tracking and behavioral analysis tool. Biorxiv.
 
-- Gao, Y., Li, J., Zhang, Z., \textbf{Zhang, R.}, Pollock, A. and Sun, T., 2019. MicroRNA miR-7 and miR-17-92 in the arcuate nucleus of Mouse Hypothalamus regulate sex-specific diet-induced obesity. Molecular Neurobiology, 56(11), pp.7508-7521.
+- Gao, Y., Li, J., Zhang, Z., **Zhang, R.**, Pollock, A. and Sun, T., 2019. MicroRNA miR-7 and miR-17-92 in the arcuate nucleus of Mouse Hypothalamus regulate sex-specific diet-induced obesity. Molecular Neurobiology, 56(11), pp.7508-7521.
 
 
 # AWARDS & SCHOLARSHIP
