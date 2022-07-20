@@ -9,4 +9,4 @@ My training in neuroscience shows me the power of eliciting emotion and thoughts
 
 Feel free to contact me if you are interested in learning more: [ruihanzhang2015@gmail.com](mailto:ruihanzhang2015@gmail.com)
 
-![My photo](){: .align-center; width="50%"}
+![My photo](DSC09165.JPG){: .align-center; width="50%"}
