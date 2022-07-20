@@ -30,7 +30,9 @@ permalink: "/cv/"
 
 • Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
 
-MIT, Brain and Cognitive Sciences, Cambridge, MA Apr. 2018-present Researcher, AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
+### Apr.2018-July.2022 Research project, AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
+
+**Massachusetts Institute of Technology, Brain and Cognitive Sciences, Cambridge, MA** 
 
 • Initiated and led the collaboration with a computer vision group to adapt multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
 
