@@ -22,6 +22,29 @@ permalink: "/cv/"
 
 # RESEARCH EXPERIENCE
 
+### Sept.2021-Nov.2021 Course project, Affect Encoding in Word Embeddings
+
+Massachusetts Institute of Technology, Cambridge, MA 
+
+• Studied how contextualized word embedding encodes richer affective information compared to static word embeddings.
+
+• Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
+
+MIT, Brain and Cognitive Sciences, Cambridge, MA Apr. 2018-present Researcher, AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
+
+• Initiated and led the collaboration with a computer vision group to adapt multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
+
+• Supervised the development of a JavaScript and HTML based UI for result inspection and interactive correction of the tracking errors, which greatly enhanced the throughput of behavior analysis.
+
+MIT, Brain and Cognitive Sciences, Cambridge, MA Researcher, Mapping Spatial Transcriptome of an Entire Vertebrate Brain
+
+Jan. 2020-present • Designed and led the project to map the RNA expression profiles of the zebrafish brain.
+
+• Developed the imaging analysis (registration, stitching, segmentation) tools for terabyte level data in collaboration with a computer vision group.
+
+• Developed bioinformatic tools which selected cell type marker genes in R and Python.
+
+
 ### 2018.4-2019.2 Massachusetts Institute of Technology
 
 - Visiting Student, Dept. of Brain and Cognitive Sciences
