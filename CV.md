@@ -69,8 +69,6 @@ MIT, Cambridge, MA. [Course Project for 6.864 Natural Language Processing]
 
 A growing research interest in Natural Language Processing (NLP) is investigating the meaning encoded in the word embeddings from large pre-trained models. We investigated how the affect-related meaning in English lexicon are encoded in popular word embeddings in NLP. The affect theory uses notions of valence, arousal and dominance as the three dimensions of affect meaning. In our project, we used the human labeled dataset as the ground truth, and performed various tests (e.g. PCA, Spearman correlation, and logistic regression) to investigate modern word embeddings' ability to encode affect meaning. Our results showed interesting correlations between several tested word embeddings and human affect senses. Furthermore, we fine-tuned a BERT-based model with affect-value regression task and applied it on a downstream affect-related task to study the effect of our affect intervention with transfer learning and few-shot learning. Embeddings from enhanced affect encoding had much better performance than vanilla BERT model. This result suggests that affective embeddings can be helpful on such sentiment-analysis tasks and the methodology of enhancing the affective dimensions of word embeddings can be applied generally in the specific domains of natural language processing.
 
-<!-- • Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings. -->
-
 - Wrote dataloaders for various input datasets to different language models.
 
 - Demonstrated the utility of contextualized word embedding in encoding affect information in the few-shot learning scheme.
@@ -81,9 +79,13 @@ A growing research interest in Natural Language Processing (NLP) is investigatin
 
 MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
 
-• Initiated and led the collaboration with a computer vision group to adapt multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
+Computer vision tools\cite{Morse1958-wm,Freeman2015-gc} have emerged as a powerful tool to elevate behavioral research. This protocol describes a computer vision machine learning pipeline called AlphaTracker\cite{padilla2022cortical}, which has minimal hardware requirements and produces reliable tracking of multiple unmarked animals, as well as behavioral clustering. AlphaTracker combines a top-down pose-estimation software combined with unsupervised clustering to facilitate behavioral motif discovery that will accelerate behavioral research\cite{padilla2022cortical,Wiltschko2015-um,Pereira2020-ci}.  All steps of the protocol are provided as open-source software with graphic user interfaces or implementable with command-line prompts. Users with a graphical processing unit (GPU) can model and analyze animal behaviors of interest in less than a day. We also provide Jupyter Notebooks that can be run on cloud resources such as Google Colaboratory. 
 
-• Supervised the development of a JavaScript and HTML based UI for result inspection and interactive correction of the tracking errors, which enables high-throughput behavioral analysis.
+- Adapted multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
+
+- Project leader
+
+- Supervised the development of a JavaScript and HTML based UI for result inspection and interactive correction of the tracking errors, which enables high-throughput behavioral analysis.
 
 <br>
 
