@@ -22,9 +22,9 @@ permalink: "/cv/"
 
 # RESEARCH EXPERIENCE
 
-### Jan. 2020-present [Research] Mapping Spatial Transcriptome of an Entire Vertebrate 
+### Jan. 2020-present Mapping Spatial Transcriptome of an Entire Vertebrate 
 
-Brain MIT, Brain and Cognitive Sciences, Cambridge, MA
+MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
 
 -  Designed and led the project to map the RNA expression profiles of the zebrafish brain.
 
@@ -34,9 +34,9 @@ Brain MIT, Brain and Cognitive Sciences, Cambridge, MA
 
 <br>
 
-### Sept.2021-Nov.2021 [Course] Affect Encoding in Word Embeddings
+### Sept.2021-Nov.2021  Affect Encoding in Word Embeddings
 
-MIT, Cambridge, MA
+MIT, Cambridge, MA [Course Project]
 
 - Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
 
@@ -44,9 +44,9 @@ MIT, Cambridge, MA
 
 <br>
 
-### [Course] Affect Encoding in Word Embeddings
+### Sept.2021-Nov.2021. Affect Encoding in Word Embeddings
 
-**Sept.2021-Nov.2021. MIT, Cambridge, MA.**
+MIT, Cambridge, MA. [Course Project]
 
 • Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
 
@@ -54,9 +54,9 @@ MIT, Cambridge, MA
 
 <br>
 
-### [Research]  AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
+###  Apr.2018-July.2022. AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
 
-**Apr.2018-July.2022. MIT, Brain and Cognitive Sciences, Cambridge, MA**
+MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
 
 • Initiated and led the collaboration with a computer vision group to adapt multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
 
@@ -64,31 +64,36 @@ MIT, Cambridge, MA
 
 <br>
 
-### 
+### Apr.2018-Feb.2019 Cortical ensembles orchestrate social competition through hypothalamic outputs
 
- Massachusetts Institute of Technology, 2018.4-2019.2
+MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
 
 - Visiting Student, Dept. of Brain and Cognitive Sciences
 - Topics: Neural circuit dynamics of prefrontal regulation of dominance via the lateral hypothalamus; Automatic multi-mice tracking and behavioral identification
 - Advisor: Kay Tye, PhD
 - Highlights: I mastered optogenetic experimental methods from surgeries to behavioral assays and histology. I also pioneered several dominance-related assays as well. Moreover, I lead a collaboration with Prof. Cewu Lu’s Lab in SJTU to use deep learning to automate multi-mice tracking and behavioral identification.
 
-
 <br>
 
-### The electrophysiological properties of maturing hippocampal neurons
-**2018.1- 2018.3 University of Cambridge**
+### Jan.2018-Mar.2018 The electrophysiological properties of maturing hippocampal neurons
+
+University of Cambridge, Cambridge, UK [Research Project]
 
 - Visiting student, Dept. of Physiology, Development and Neuroscience
+
 - Topics: The electrophysiological properties of maturing hippocampal neurons
+
 - Advisor: Ole Paulsen, MD, PhD
+
 - Highlights: It is very kind of Prof. Old Paulsen to let me learn electrophysiology! After two weeks of learning whole-cell patch clamping on cell culture, I patched hippocampal neurons of different cell types and developmental stages from both sides. Then I wrote MATLAB scripts to analyze their electrophysiological properties from raw traces I collected.
 
 
 <br>
 
 
-### 2017.7-2017.8 Duke University
+### July.2017-Aug.2018 Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye
+
+Duke University, Durham, NC [Research Project]
 
 - Summer Internship, Dept. of Biomedical Engineering
 - Topic: Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye.
@@ -98,6 +103,7 @@ MIT, Cambridge, MA
 <br>
 
 ### Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
+
 **2016.2-2018.1 Shanghai Jiao Tong University**
 
 - Undergraduate research, School of Life Sciences and biotechnology
