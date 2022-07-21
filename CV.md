@@ -45,7 +45,9 @@ The recent advances in face swapping techniques hold great potential in storytel
 
 - Implemented SimSwap network structure to achieve face swapping with a high resolution.
 
-- Compared four video super resolution methods to enhance the synthesized video resolution.
+- Compared various video super resolution methods and demonstrated their performance in enhancing synthesized video resolution.
+
+<br>
 
 ### Feb.2022-May.2022  Solving American Put Option Prices with Dynamic Programming
 
