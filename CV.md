@@ -69,8 +69,9 @@ A growing research interest in Natural Language Processing (NLP) is investigatin
 
 <!-- • Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings. -->
 
+- Wrote dataloaders for various input datasets to different language models.
 
-• Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
+- Demonstrated the utility of contextualized word embedding in encoding affect information in the few-shot learning scheme.
 
 <br>
 
