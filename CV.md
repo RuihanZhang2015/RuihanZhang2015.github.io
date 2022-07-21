@@ -102,15 +102,13 @@ MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
 
 ### Jan.2018-Mar.2018 The electrophysiological properties of maturing hippocampal neurons
 
-University of Cambridge, Cambridge, UK [Research Project]
-
-- Visiting student, Dept. of Physiology, Development and Neuroscience
-
-- Topics: The electrophysiological properties of maturing hippocampal neurons
+University of Cambridge, Dept. of Physiology, Development and Neuroscience, Cambridge, UK [Research Project]
 
 - Advisor: Ole Paulsen, MD, PhD
 
-- Highlights: It is very kind of Prof. Old Paulsen to let me learn electrophysiology! After two weeks of learning whole-cell patch clamping on cell culture, I patched hippocampal neurons of different cell types and developmental stages from both sides. Then I wrote MATLAB scripts to analyze their electrophysiological properties from raw traces I collected.
+- Patched hippocampal neurons of different cell types and developmental stages from both hemisphere with whole-cell patch clamping on cell culture, 
+
+- Developed an algorithm in MATLAB to analyze neural electrophysiological properties from collected electrophysiological data.
 
 <br>
 
@@ -118,10 +116,11 @@ University of Cambridge, Cambridge, UK [Research Project]
 
 Duke University, Dept. of Biomedical Engineering, Durham, NC [Research Project]
 
-- Summer Internship, Dept. of Biomedical Engineering
-- Topic: Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye.
 - Advisor: Yiyang Gong, PhD
-- Highlights: I adapted the algorithm called PCA/ICA (principle/independence component analysis) and CNMFE (constrained non-negative matrix factorization) previously used for mice for our zebrafish setup. I taught myself linear algebra and dug into all the mathematical details behind the algorithm.
+
+- Adapted the algorithm PCA/ICA (principle/independence component analysis) and CNMFE (constrained non-negative matrix factorization) to process the calium and voltage imaging data on zebrafish brain.
+
+- Developed a GUI in MATLAB for verifying extraced neural activity traces which contributes to the analysis efficiency.
 
 <br>
 
@@ -129,11 +128,11 @@ Duke University, Dept. of Biomedical Engineering, Durham, NC [Research Project]
 
 Shanghai Jiao Tong University, School of Life Sciences and Biotechnology, Shanghai, China
 
-- Undergraduate research, School of Life Sciences and biotechnology
-- Topic: Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
 - Advisor: Tao Sun, PhD
-- Highlights: I learnt to perform qPCRs on the predicted targets of microRNAs and to validate our results with immunostaining techniques. I wrote MATLAB scripts to automate and accelerate cell counting.
-- Our manuscript is available on bioRxiv: MicroRNA miR-7 and miR-17-92 in POMC neurons are associated with sex-specific regulation of diet-induced obesity
+
+- Performed qPCRs on the predicted targets of certain microRNAs and validated the identified targets with immunohistology.
+
+- Developed MATLAB scripts to automate and accelerate cell counting from fluorescent images acquired from confocal microscopy.
 
 <br>
 
@@ -141,9 +140,9 @@ Shanghai Jiao Tong University, School of Life Sciences and Biotechnology, Shangh
 
 - Research skills Stereotaxic surgery, Immunohistochemistry, Confocal imaging, qPCR, Patch clamping on cell culture, Optogenetic stimulation during behavioral assays, Biostatistics, Calcium/voltage imaging data analysis, Digital signal processing, GUI building for video scoring
 
-- Coding Language Python, MATLAB, C++
+- Coding Language: Python, MATLAB, C++
 
-- Other skills HTML, JavaScript; Adobe Illustrator, Photoshop; Video editing
+- Other skills: HTML, JavaScript; Adobe Illustrator, Adobe Photoshop, DaVinci, Final Cut Pro, Adobe Premiere
 
 <br>
 
