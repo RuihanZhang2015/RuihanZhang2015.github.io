@@ -63,7 +63,7 @@ An option is a derivative contract that gives its owner the right but not the ob
 
 ### Sept.2021-Nov.2021. Affect Encoding in Word Embeddings
 
-MIT, Cambridge, MA. [Course Project]
+MIT, Cambridge, MA. [Course Project for 6.864 Natural Language Processing]
 
 A growing research interest in Natural Language Processing (NLP) is investigating the meaning encoded in the word embeddings from large pre-trained models. We investigated how the affect-related meaning in English lexicon are encoded in popular word embeddings in NLP. The affect theory uses notions of valence, arousal and dominance as the three dimensions of affect meaning. In our project, we used the human labeled dataset as the ground truth, and performed various tests (e.g. PCA, Spearman correlation, and logistic regression) to investigate modern word embeddings' ability to encode affect meaning. Our results showed interesting correlations between several tested word embeddings and human affect senses. Furthermore, we fine-tuned a BERT-based model with affect-value regression task and applied it on a downstream affect-related task to study the effect of our affect intervention with transfer learning and few-shot learning. Embeddings from enhanced affect encoding had much better performance than vanilla BERT model. This result suggests that affective embeddings can be helpful on such sentiment-analysis tasks and the methodology of enhancing the affective dimensions of word embeddings can be applied generally in the specific domains of natural language processing.
 
