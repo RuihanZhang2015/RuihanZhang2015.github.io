@@ -79,7 +79,7 @@ A growing research interest in Natural Language Processing (NLP) is investigatin
 
 MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
 
-Computer vision tools\cite{Morse1958-wm,Freeman2015-gc} have emerged as a powerful tool to elevate behavioral research. This protocol describes a computer vision machine learning pipeline called AlphaTracker\cite{padilla2022cortical}, which has minimal hardware requirements and produces reliable tracking of multiple unmarked animals, as well as behavioral clustering. AlphaTracker combines a top-down pose-estimation software combined with unsupervised clustering to facilitate behavioral motif discovery that will accelerate behavioral research\cite{padilla2022cortical,Wiltschko2015-um,Pereira2020-ci}.  All steps of the protocol are provided as open-source software with graphic user interfaces or implementable with command-line prompts. Users with a graphical processing unit (GPU) can model and analyze animal behaviors of interest in less than a day. We also provide Jupyter Notebooks that can be run on cloud resources such as Google Colaboratory. 
+Computer vision tools have emerged as a powerful tool to elevate behavioral research. This protocol describes a computer vision machine learning pipeline called AlphaTracker\cite{padilla2022cortical}, which has minimal hardware requirements and produces reliable tracking of multiple unmarked animals, as well as behavioral clustering. AlphaTracker combines a top-down pose-estimation software combined with unsupervised clustering to facilitate behavioral motif discovery that will accelerate behavioral research\cite{padilla2022cortical,Wiltschko2015-um,Pereira2020-ci}.  All steps of the protocol are provided as open-source software with graphic user interfaces or implementable with command-line prompts. Users with a graphical processing unit (GPU) can model and analyze animal behaviors of interest in less than a day. We also provide Jupyter Notebooks that can be run on cloud resources such as Google Colaboratory. 
 
 - Adapted multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
 
@@ -93,10 +93,15 @@ Computer vision tools\cite{Morse1958-wm,Freeman2015-gc} have emerged as a powerf
 
 MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
 
-- Visiting Student, Dept. of Brain and Cognitive Sciences
-- Topics: Neural circuit dynamics of prefrontal regulation of dominance via the lateral hypothalamus; Automatic multi-mice tracking and behavioral identification
+Most social species self-organize into dominance hierarchies, which decreases aggression and conserves energy, but it is not clear how individuals know their social rank. We have only begun to learn how the brain represents social rank and guides behaviour on the basis of this representation. The medial prefrontal cortex (mPFC) is involved in social dominance in rodents and humans. Yet, precisely how the mPFC encodes relative social rank and which circuits mediate this computation is not known. We developed a social competition assay in which mice compete for rewards, as well as a computer vision tool (AlphaTracker) to track multiple, unmarked animals. A hidden Markov model combined with generalized linear models was able to decode social competition behaviour from mPFC ensemble activity. Population dynamics in the mPFC predicted social rank and competitive success. Finally, we demonstrate that mPFC cells that project to the lateral hypothalamus promote dominance behaviour during reward competition. Thus, we reveal a cortico-hypothalamic circuit by which the mPFC exerts top-down modulation of social dominance.
+
 - Advisor: Kay Tye, PhD
-- Highlights: I mastered optogenetic experimental methods from surgeries to behavioral assays and histology. I also pioneered several dominance-related assays as well. Moreover, I lead a collaboration with Prof. Cewu Lu’s Lab in SJTU to use deep learning to automate multi-mice tracking and behavioral identification.
+
+- Performed sterotaxic surgeries on mice brain to inject optogenetic opsins in the mice brain which manipulates neural activities.
+
+- Developed behavioral readouts for studying social dominance with designed assays.
+
+- 
 
 <br>
 
