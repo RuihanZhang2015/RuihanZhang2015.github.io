@@ -174,7 +174,7 @@ Shanghai Jiao Tong University, School of Life Sciences and Biotechnology, Shangh
     A very competitive scholarship sponsored by a Chinese entrepreneur Mr. Lixin Tang. Once awarded,  the   student will be sponsored annually until graduation.
     
 
-
+<br>
 
 
 # PUBLICATION
