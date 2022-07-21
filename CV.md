@@ -106,7 +106,7 @@ University of Cambridge, Dept. of Physiology, Development and Neuroscience, Camb
 
 - Advisor: Ole Paulsen, MD, PhD
 
-- Patched hippocampal neurons of different cell types and developmental stages from both hemisphere with whole-cell patch clamping on cell culture, 
+- Studied the electrophisiology of hippocampal neurons of different cell types and developmental stages from both hemisphere with whole-cell patch clamping.
 
 - Developed an algorithm in MATLAB to analyze neural electrophysiological properties from collected electrophysiological data.
 
