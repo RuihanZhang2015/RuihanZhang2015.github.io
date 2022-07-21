@@ -22,9 +22,11 @@ permalink: "/cv/"
 
 # RESEARCH EXPERIENCE
 
-### Jan. 2020-present Mapping Spatial Transcriptome of an Entire Vertebrate 
+### Jan.2020-present Mapping Spatial Transcriptome of an Entire Vertebrate 
 
 MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
+
+Our project focuses on applying expansion sequencing technology to read out RNA expression profiles with subcellular resolution in the zebrafish brain. 
 
 -  Designed and led the project to map the RNA expression profiles of the zebrafish brain.
 
@@ -34,19 +36,38 @@ MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
 
 <br>
 
-### Sept.2021-Nov.2021  Affect Encoding in Word Embeddings
 
-MIT, Cambridge, MA [Course Project]
+### Feb.2022-May.2022  Towards photo-realistic face swapped videos
 
-- Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
+MIT, Cambridge, MA [Course Project for 6.869 Computer Vision]
 
-- Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
+The recent advances in face swapping techniques hold great potential in storytelling for ordinary people. Face swapping conceals the identities of interviewees while preserving their contagious facial expression. In this project, we presented methods to perform face swapping in the context of protecting the identities of Asian woman interviewees. We provided an entire pipeline to synthesize artificial Asian faces, applying face swapping and video super resolution methods to enhance the spatial resolution. We show that similarity scores for face shape enables us to find the best-matching source faces, which leads to the best face swapping results. We also showed that SimSwap trained with high resolution images generate realistic face swapped videos. Applying video super methods on these face swapped videos further enhance their resolution. We hope our methods allow individuals to share their personal growth and struggles with minimal privacy concern.
+
+- Implemented SimSwap network structure to achieve face swapping with a high resolution.
+
+- Compared four video super resolution methods to enhance the synthesized video resolution.
+
+### Feb.2022-May.2022  Solving American Put Option Prices with Dynamic Programming
+
+MIT, Cambridge, MA [Course Project for 6.231 Dynamic programming and reinforcement learning]
+
+An option is a derivative contract that gives its owner the right but not the obligation to buy or sell an underlying asset. American options may exercise at any time before expiry. American option can be formulated as an optimal control MDP (Markov Decision Process) problem, where the underlying process is Geometric Brownian motion. The Markovian state is a price time tuple and the control is a binary action that decides on each day whether to exercise the option or not. This project studies the problem of option pricing (i.e. how to pick the optimal stopping timing to exercise the option and get paid by the amount between stock price and strike price). 
+
+In this project, we compared several methods for option pricing for option pricing. We show that the approximate value iteration and Q learning have the advantage over the naive approach for its better capturing the expected future return when establishing the mapping between current stock price, time and the option price. Q-learning has the computational advantage over approximate value iteration because the unbiased next state sampling. These methods generalized well from the single stock option to the multi-stock ETF pricing, with radial basis functions or the multi-layer perceptron as the basis function for computing features from high-dimension inputs. We demonstrated that dynamical programming methods prove a handy tool for option pricing.
+
+- Synthesized stock price datasets by simulating trajectories with Brownian emotion.
+
+- Implemented approximate value iteration and approximate policy iteration algorithm to compute the optimal stopping policy.
+
+- Compared the performance of various base functions and multi-layer perceptron for approximating value function and Q function. 
 
 <br>
 
 ### Sept.2021-Nov.2021. Affect Encoding in Word Embeddings
 
 MIT, Cambridge, MA. [Course Project]
+
+
 
 • Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
 
@@ -91,7 +112,7 @@ University of Cambridge, Cambridge, UK [Research Project]
 
 ### July.2017-Aug.2018 Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye
 
-Duke University, Durham, NC [Research Project]
+Duke University, Dept. of Biomedical Engineering, Durham, NC [Research Project]
 
 - Summer Internship, Dept. of Biomedical Engineering
 - Topic: Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye.
@@ -102,7 +123,7 @@ Duke University, Durham, NC [Research Project]
 
 ### Feb.2016-Jan.2018 Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
 
-Shanghai Jiao Tong University, Shanghai, China
+Shanghai Jiao Tong University, School of Life Sciences and Biotechnology, Shanghai, China
 
 - Undergraduate research, School of Life Sciences and biotechnology
 - Topic: Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
@@ -114,11 +135,10 @@ Shanghai Jiao Tong University, Shanghai, China
 
 # SKILLS
 
-- Research skills Stereotaxic surgery, Immunohistochemistry, Confocal imaging, qPCR,
-
-Patch clamping on cell culture, Optogenetic stimulation during behavioral assays, Biostatistics, Calcium/voltage imaging data analysis, Digital signal processing, GUI building for video scoring
+- Research skills Stereotaxic surgery, Immunohistochemistry, Confocal imaging, qPCR, Patch clamping on cell culture, Optogenetic stimulation during behavioral assays, Biostatistics, Calcium/voltage imaging data analysis, Digital signal processing, GUI building for video scoring
 
 - Coding Language Python, MATLAB, C++
+
 - Other skills HTML, JavaScript; Adobe Illustrator, Photoshop; Video editing
 
 
