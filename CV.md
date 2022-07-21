@@ -102,9 +102,9 @@ Duke University, Durham, NC [Research Project]
 
 <br>
 
-### Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
+### Feb.2016-Jan.2018 Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
 
-**2016.2-2018.1 Shanghai Jiao Tong University**
+Shanghai Jiao Tong University, Shanghai, China
 
 - Undergraduate research, School of Life Sciences and biotechnology
 - Topic: Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
