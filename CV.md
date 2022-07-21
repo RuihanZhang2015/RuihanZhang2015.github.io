@@ -87,9 +87,7 @@ University of Cambridge, Cambridge, UK [Research Project]
 
 - Highlights: It is very kind of Prof. Old Paulsen to let me learn electrophysiology! After two weeks of learning whole-cell patch clamping on cell culture, I patched hippocampal neurons of different cell types and developmental stages from both sides. Then I wrote MATLAB scripts to analyze their electrophysiological properties from raw traces I collected.
 
-
 <br>
-
 
 ### July.2017-Aug.2018 Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye
 
@@ -111,6 +109,8 @@ Shanghai Jiao Tong University, Shanghai, China
 - Advisor: Tao Sun, PhD
 - Highlights: I learnt to perform qPCRs on the predicted targets of microRNAs and to validate our results with immunostaining techniques. I wrote MATLAB scripts to automate and accelerate cell counting.
 - Our manuscript is available on bioRxiv: MicroRNA miR-7 and miR-17-92 in POMC neurons are associated with sex-specific regulation of diet-induced obesity
+
+<br>
 
 # SKILLS
 
