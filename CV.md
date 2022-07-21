@@ -143,6 +143,7 @@ Shanghai Jiao Tong University, School of Life Sciences and Biotechnology, Shangh
 
 - Other skills HTML, JavaScript; Adobe Illustrator, Photoshop; Video editing
 
+<br>
 
 # AWARDS & SCHOLARSHIP
 
