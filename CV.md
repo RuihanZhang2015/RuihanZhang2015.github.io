@@ -22,25 +22,25 @@ permalink: "/cv/"
 
 # RESEARCH EXPERIENCE
 
-### [Research] Mapping Spatial Transcriptome of an Entire Vertebrate Brain
+### Jan. 2020-present [Research] Mapping Spatial Transcriptome of an Entire Vertebrate 
 
-**MIT, Brain and Cognitive Sciences, Cambridge, MA**
+Brain MIT, Brain and Cognitive Sciences, Cambridge, MA
 
-Jan. 2020-present • Designed and led the project to map the RNA expression profiles of the zebrafish brain.
+-  Designed and led the project to map the RNA expression profiles of the zebrafish brain.
 
-• Developed the imaging analysis (registration, stitching, segmentation) tools for terabyte level data in collaboration with a computer vision group.
+- Developed the imaging analysis (registration, stitching, segmentation) tools for terabyte level data in collaboration with a computer vision group.
 
-• Developed bioinformatic tools which selected cell type marker genes in R and Python.
+- Developed bioinformatic tools which selected cell type marker genes in R and Python.
 
 <br>
 
-### [Course] Affect Encoding in Word Embeddings
+### Sept.2021-Nov.2021 [Course] Affect Encoding in Word Embeddings
 
-**Sept.2021-Nov.2021. MIT, Cambridge, MA.**
+MIT, Cambridge, MA
 
-• Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
+- Studied how contextualized word embedding in NLP models encodes richer affective information compared to static word embeddings.
 
-• Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
+- Demonstrated the utility of such contextualized word embedding in encoding affect information in the few-shot learning scheme.
 
 <br>
 
