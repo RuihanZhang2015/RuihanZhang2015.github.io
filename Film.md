@@ -16,7 +16,7 @@ This film was created during my college years, a time when I was immersed in neu
 This film, crafted in the last year of my college education, was inspired by a real-life story. It involved a significant investment of my time and effort. The story revolves around two boys who create an AI that becomes their best friend and confidant. By chance, the AI enrolls one of the boys in a class where he ultimately finds love. This film was very funny. While today we are familiar with LLM and ChatGPT, it's worth noting that this film was shot in 2019, making its concept quite futuristic at the time.
 
 # [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg)
-This film talks about graduate student's experience at MIT. I was the director of this film.
+This film talks about graduate student's experience at MIT. I was the director of this film. This film has 171,000 views on Bilibili by Jan 2024.
 
 
 # [Robotic Dog Finding me a Girlfriend](https://www.youtube.com/watch?v=LqRdht7AoTA)
