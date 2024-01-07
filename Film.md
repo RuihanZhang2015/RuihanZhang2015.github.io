@@ -16,11 +16,11 @@ This film was created during my college years, a time when I was immersed in neu
 This film, crafted in the last year of my college education, was inspired by a real-life story. It involved a significant investment of my time and effort. The story revolves around two boys who create an AI that becomes their best friend and confidant. By chance, the AI enrolls one of the boys in a class where he ultimately finds love. This film was very funny. While today we are familiar with LLM and ChatGPT, it's worth noting that this film was shot in 2019, making its concept quite futuristic at the time.
 
 # [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg)
-This film talks about graduate student's experience at MIT. 
+This film talks about graduate student's experience at MIT. I was the director of this film.
 
 
 # [Robotic Dog Finding me a Girlfriend](https://www.youtube.com/watch?v=LqRdht7AoTA)
-This film is the funniest one I've ever made. It's a hilarious story about a robotic dog that helps its owner find a girlfriend. Impressively, we shot it in just 1.5 days, setting a record for the fastest completion of a short film.
+This is the most humorous film I've ever produced, featuring a comical tale of a robotic dog that assists its owner in finding a girlfriend. Remarkably, we managed to shoot the entire film in just 1.5 days, achieving a record for the quickest production of a short film. On the surface, the film appears to be about an AI-powered dog encouraging its owner to pursue a relationship. However, it's important to clarify that we do not endorse such behavior. We believe that intelligent individuals should focus on their own growth and decisions, rather than influencing others in their personal matters.
 
 
 
