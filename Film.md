@@ -7,12 +7,13 @@ permalink: "/film/"
 Over the years, I have directed several films. Here are my favorites.
 
 # [Undefined Youth](https://www.youtube.com/watch?v=oaaCXuzaxoY&list=PL6rJy6NYiBpxBIsRf6MWw5aUjJ9Z0UMFE&index=1&pp=iAQB)
-
+This is the first film I ever directed, inspired by my personal journey. After narrowly missing admission to Peking University by just three points on the Chinese College Entrance Exam, I spent 20 days in a state of deep reflection at home. During the final year of high school, I grappled with the concept of apriorism, which suggests that all events are predetermined by past actions. This viewpoint led me to believe that my fate was sealed from birth, a notion that deeply influenced my mindset prior to the exam. My film explores this period of my life, showcasing how apriorism and pessimism profoundly shaped my experiences. I was fortunate to work with three exceptionally talented actors and the entire dedicated film crew. The film resonated with viewers, garnering 2000 views on its release day on the now-defunct video platform Tudou. This project was a transformative experience for me, shifting me from an introvert to an extrovert as it compelled me to reach out and collaborate with others.
 
 # [Memory Cut Pro](https://www.youtube.com/watch?v=UcbXHZFgT5g&list=PL6rJy6NYiBpxBIsRf6MWw5aUjJ9Z0UMFE&index=2)
-
+This film was created during my college years, a time when I was immersed in neuroscience. I was particularly astounded by optogenetics, a field developed by my PhD advisor, which has the capacity to alter animal emotions and thoughts by integrating devices into their brains. Convinced that brain-machine interfaces in humans are an impending reality, I crafted this film about a boy who uncovers this technology but ultimately decides to dismantle it, fearing it could enslave humanity if misused by malevolent individuals. Such personal heroism may seem unrealistic in real life, as advancement of technology is usually nonstoppable.
 
 # [My Poetic AlphaFriend](https://www.youtube.com/watch?v=VLWN5po2utQ&list=PL6rJy6NYiBpxBIsRf6MWw5aUjJ9Z0UMFE&index=4)
+
 
 
 # [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg)
