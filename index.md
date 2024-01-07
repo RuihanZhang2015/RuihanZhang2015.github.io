@@ -7,7 +7,7 @@ Welcome to my personal website! I am a PhD student at Massachusetts Institute of
 
 My training in neuroscience shows me the power of eliciting emotion and thoughts with well-designed visual and audio stimuli (especially on mice hahahah). I have been an film director since 2015, including "Undefined Youth", "Memory Cut Pro", "My Poetic AlphaFriend", "Decode MIT", "Robotic Dog Finding a Girlfriend". [Watching my films](https://ruihanzhang2015.github.io/film/) is the best way to learn my philosophy and personality.
 
-At MIT, I founded the [MIT Film Makers Assocation](https://filmmakers.mit.edu/) in the hope to get my fellow MIT friends interested in expressing themselves and resonating with other souls across space and time. I organized the first MIT AI for filmmaking hackathon and is currently working on the second iteration.
+At MIT, I founded the [MIT Film Makers Assocation](https://filmmakers.mit.edu/) in the hope to get my fellow MIT friends interested in expressing themselves and resonating with other souls across space and time. I organized the [first MIT AI for filmmaking hackathon](https://www.media.mit.edu/posts/mit-ai-for-filmmaking-hackathon-2023-brings-dreams-to-life/) and is currently working on the second iteration.
 
 Feel free to contact me if you are interested in learning more: [ruihanzhang2015@gmail.com](mailto:ruihanzhang2015@gmail.com)
 
