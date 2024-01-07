@@ -1,18 +1,25 @@
 ---
 layout: page
-title: "Story behind my films"
+title: ""
 permalink: "/film/"
 ---
 
-# Undefined Youth
+Over the years, I have directed several films. Here are my favorites.
 
-# Memory Cut Pro
+# [Undefined Youth](https://www.youtube.com/watch?v=oaaCXuzaxoY&list=PL6rJy6NYiBpxBIsRf6MWw5aUjJ9Z0UMFE&index=1&pp=iAQB)
 
-# My Poetic AlphaFriend
 
-# Decode MIT
+# [Memory Cut Pro](https://www.youtube.com/watch?v=UcbXHZFgT5g&list=PL6rJy6NYiBpxBIsRf6MWw5aUjJ9Z0UMFE&index=2)
 
-# Robotic Dog Finding me a Girlfriend
+
+# [My Poetic AlphaFriend](https://www.youtube.com/watch?v=VLWN5po2utQ&list=PL6rJy6NYiBpxBIsRf6MWw5aUjJ9Z0UMFE&index=4)
+
+
+# [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg)
+
+
+# [Robotic Dog Finding me a Girlfriend](https://www.youtube.com/watch?v=LqRdht7AoTA)
+
 
 
 
