@@ -13,7 +13,7 @@ This is the first film I ever directed, inspired by my personal journey. After n
 This film was created during my college years, a time when I was immersed in neuroscience. I was particularly astounded by optogenetics, a field developed by my PhD advisor, which has the capacity to alter animal emotions and thoughts by integrating devices into their brains. Convinced that brain-machine interfaces in humans are an impending reality, I crafted this film about a boy who uncovers this technology but ultimately decides to dismantle it, fearing it could enslave humanity if misused by malevolent individuals. Such personal heroism may seem unrealistic in real life, as advancement of technology is usually nonstoppable.
 
 # [My Poetic AlphaFriend](https://www.youtube.com/watch?v=VLWN5po2utQ&list=PL6rJy6NYiBpxBIsRf6MWw5aUjJ9Z0UMFE&index=4)
-This film was created in the final year of my college studies, drawing inspiration from a true story. I put an immense amount of effort into its production.
+This film, crafted in the last year of my college education, was inspired by a real-life story. It involved a significant investment of my time and effort. The story revolves around two boys who create an AI that becomes their best friend and confidant. By chance, the AI enrolls one of the boys in a class where he ultimately finds love. This film was very funny. While today we are familiar with LLM and ChatGPT, it's worth noting that this film was shot in 2019, making its concept quite futuristic at the time.
 
 # [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg)
 This film talks about graduate student's experience at MIT. 
