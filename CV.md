@@ -10,15 +10,20 @@ permalink: "/cv/"
 
 Ph.D. in Media Arts and Sciences | GPA 5.0/5.0   
 
-Cambridge, MA, Dec 2024 (Expected)
+Cambridge, MA, July 2021- Dec 2024 (Expected)
+
+Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr. Joe Jacobson](https://www.media.mit.edu/people/jacobson/overview/).
 
 Selected Courses: Advances in Computer Vision, Advanced Natural Language Processing, Dynamic Programming and Reinforcement Learning, Tissue vs Silicon in Machine Learning, Brain Algorithms
 
-### Massachusetts Institute of Technology — Media Lab                                                                           
+### Massachusetts Institute of Technology                                                                   
 
 M.S. in Media Arts and Sciences | GPA 4.85/5.0
 
-Cambridge, MA, June 2021
+Cambridge, MA, Sept 2019 - June 2021
+
+Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr. Joe Jacobson](https://www.media.mit.edu/people/jacobson/overview/).
+
 
 Selected Courses: Machine Learning, Information and Inference, Computational Biology: Genomes, Networks, Evolution, Fields, Forces, and Flows in Biological systems, Nucleic Acids
 
