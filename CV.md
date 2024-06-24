@@ -12,9 +12,8 @@ Ph.D. in Media Arts and Sciences , GPA 5.0/5.0
 
 Cambridge, MA, July 2021- Dec 2024 (Expected)
 
-Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr. Joe Jacobson](https://www.media.mit.edu/people/jacobson/overview/).
-
-Selected Courses: Advances in Computer Vision, Advanced Natural Language Processing, Dynamic Programming and Reinforcement Learning, Tissue vs Silicon in Machine Learning, Brain Algorithms
+- Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr. Joe Jacobson](https://www.media.mit.edu/people/jacobson/overview/).
+- Selected Courses: Advances in Computer Vision, Advanced Natural Language Processing, Dynamic Programming and Reinforcement Learning, Tissue vs Silicon in Machine Learning, Brain Algorithms
 
 ### Master - Massachusetts Institute of Technology                                                                   
 
@@ -22,9 +21,8 @@ M.S. in Media Arts and Sciences , GPA 4.85/5.0
 
 Cambridge, MA, Sept 2019 - June 2021
 
-Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr. Joe Jacobson](https://www.media.mit.edu/people/jacobson/overview/).
-
-Selected Courses: Machine Learning, Information and Inference, Computational Biology: Genomes, Networks, Evolution, Fields, Forces, and Flows in Biological systems, Nucleic Acids
+- Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr. Joe Jacobson](https://www.media.mit.edu/people/jacobson/overview/).
+- Selected Courses: Machine Learning, Information and Inference, Computational Biology: Genomes, Networks, Evolution, Fields, Forces, and Flows in Biological systems, Nucleic Acids
 
 
 ### Bachelor - Shanghai Jiao Tong University
@@ -33,9 +31,8 @@ Bachelor in Life Science, Zhiyuan Honor Program , GPA 93/100 ( Rank 1/7 )
 
 Shanghai, China, Sept 2015 - July 2019
 
-Zhiyuan Honor Program selects top 10% students of different majors, featuring interdisciplinary training and small classroom teaching.
-    
-Selected Courses:  Mathematical Analysis, Linear Algebra, Physics, Physics Laboratory, Chemical Principle, Chemistry Laboratory, Biochemistry, Neurobiology, Genetics, Digital Signal Processing, Biostatiscs, Cell Biology, Biology Laboratory
+- Zhiyuan Honor Program selects top 10% students of different majors, featuring interdisciplinary training and small classroom teaching.
+- Selected Courses:  Mathematical Analysis, Linear Algebra, Physics, Physics Laboratory, Chemical Principle, Chemistry Laboratory, Biochemistry, Neurobiology, Genetics, Digital Signal Processing, Biostatiscs, Cell Biology, Biology Laboratory
 
 ### Exchange student - St John’s College, University of Cambridge
 
@@ -49,10 +46,8 @@ Cambridge, UK, 2018.1-2018.3
 
 ### Enhancing 3D Object/Scene Generation from Sketches with Diffusion Model
 AR Perception Team, Google Inc.	
-
 Mountain View, CA, May.2023-Aug.2023
-
-Working on 3D object generation conditioned on text and user input sketches. This project involves training an encoder to capture 3D object representations, converting representations as implicit functions (neural radiance fields) to render high resolution objects, and training diffusion models to generate novel objects conditioned on text and sketch inputs. This project holds great potential for creating 3D assets for AR/VR applications.
+- Working on 3D object generation conditioned on text and user input sketches. This project involves training an encoder to capture 3D object representations, converting representations as implicit functions (neural radiance fields) to render high resolution objects, and training diffusion models to generate novel objects conditioned on text and sketch inputs. This project holds great potential for creating 3D assets for AR/VR applications.
 
 # Research Project
 
@@ -63,6 +58,7 @@ Working on 3D object generation conditioned on text and user input sketches. Thi
 
 ### Instance Segmentation of Unlabeled Modalities via Cyclic Segmentation GAN
 Feb. 2022-Dec.2022
+- Supervised by Dr. Donglai Wei
 - Provided data for benchmarking a novel Cyclic Segmentation Generative Adversarial Network (CySGAN) that conducts image translation and instance segmentation jointly using a unified framework. Our model achieves 3D neuronal nuclei segmentation of unlabeled expansion microscopy data with annotated electron microscopy images.
 
 ### AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool              
@@ -70,23 +66,27 @@ Feb. 2022-Dec.2022
 - Spearheaded applying cutting-edge human pose estimation algorithm AlphaPose on tracking multiple mice
 - Automated the analysis of their social interaction and individual behavioral motif with unsupervised clustering.
 - Supervised the development of a web-based UI for inspecting tracking and behavioral clustering results.
-- Cortical ensembles orchestrate social competition through hypothalamic outputs                                                                             
-### [Undergrad thesis] MIT, Brain and Cognitive Sciences
-Supervised by Dr. Nancy Padilla and Dr. Kay Tye Apr.2018-Feb.2019
+
+### Cortical ensembles orchestrate social competition through hypothalamic outputs                                                                    
+[Undergrad thesis] MIT, Brain and Cognitive Sciences Apr.2018-Feb.2019
+- Supervised by Dr. Nancy Padilla and Dr. Kay Tye
 - Pioneered the discovery that the prefrontal-hypothalamic circuit regulates social dominance behavior with optogenetic approaches(involving stereotaxic brain surgeries), which leads to a major publication on Nature.
 - Built a MATLAB GUI for scoring animal behavior with a video playback function.
 
-### Jan.2018-Mar.2018 The electrophysiological properties of maturing hippocampal neurons
-Supervised by Ole Paulsen, MD, PhD, University of Cambridge, Dept. of Physiology, Development and Neuroscience, Cambridge, UK
+### The electrophysiological properties of maturing hippocampal neurons
+University of Cambridge, Dept. of Physiology, Development and Neuroscience, Cambridge, UK, Jan.2018-Mar.2018 
+- Supervised by Ole Paulsen, MD, PhD
 - Studied the electrophisiology of hippocampal neurons of different cell types and developmental stages from both hemisphere with whole-cell patch clamping.
 - Developed an algorithm in MATLAB to analyze neural electrophysiological properties from collected electrophysiological data.
 
 ### Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye 
-Supervised by Dr. Yiyang Gong, Duke University, Dept. of Biomedical Engineering，July.2017-Aug.2017
+Dept. of Biomedical Engineering，Duke University, July.2017-Aug.2017
+- Supervised by Dr. Yiyang Gong
 - Adapted the algorithm principle/independence component analysis and constrained non-negative matrix factorization to process the calcium and voltage imaging data on the larval zebrafish brain.
 
-### Feb.2016-Jan.2018 Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
-Supervised by Tao Sun, PhD, Shanghai Jiao Tong University, School of Life Sciences and Biotechnology, Shanghai, China
+### Functions of miRNA-7 and miR-17-92 in the arcuate nucleus in the obesity phenotype
+School of Life Sciences and Biotechnology, Shanghai Jiao Tong University, Shanghai, China Feb.2016-Jan.2018 
+- Supervised by Dr. Tao Sun
 - Performed qPCRs on the predicted targets of certain microRNAs and validated the identified targets with immunohistology.
 - Developed MATLAB scripts to automate and accelerate cell counting from fluorescent images acquired from confocal microscopy.
 
