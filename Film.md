@@ -6,7 +6,7 @@ permalink: "/film/"
 
 Over the years, I have directed several films. Here are my favorites.
 
-# [敢杀我的马 学术版](https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click）
+# [敢杀我的马 学术版](https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click)
 This short, funny film was created by a group of graduate students using generative AI (text-to-image, image-to-video). In the film, we mock various phenomena in academia, such as publishing pressure, paper review process.
 
 
