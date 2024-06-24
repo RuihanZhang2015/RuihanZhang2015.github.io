@@ -24,110 +24,79 @@ Cambridge, MA, Sept 2019 - June 2021
 
 Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr. Joe Jacobson](https://www.media.mit.edu/people/jacobson/overview/).
 
-
 Selected Courses: Machine Learning, Information and Inference, Computational Biology: Genomes, Networks, Evolution, Fields, Forces, and Flows in Biological systems, Nucleic Acids
 
 
-### 2015-2019 Shanghai Jiao Tong University
+### Shanghai Jiao Tong University
 
-Bachelor in Life Science, Zhiyuan Honor Program | GPA 93/100 ( Rank 1/7 )
+Bachelor in Life Science, Zhiyuan Honor Program , GPA 93/100 ( Rank 1/7 )
 
-Shanghai, China, July 2019
+Shanghai, China, Sept 2015 - July 2019
 
 Zhiyuan Honor Program selects top 10% students of different majors, featuring interdisciplinary training and small classroom teaching.
     
 Selected Courses:  Mathematical Analysis, Linear Algebra, Physics, Physics Laboratory, Chemical Principle, Chemistry Laboratory, Biochemistry, Neurobiology, Genetics, Digital Signal Processing, Biostatiscs, Cell Biology, Biology Laboratory
 
-### 2018.1-2018.3 St John’s College, University of Cambridge
+### St John’s College, University of Cambridge
 
-- Lent term exchange student, sponsored by St John’s College
+Lent term exchange student, sponsored by St John’s College
 
-<br>
-
-# RESEARCH EXPERIENCE
-
-### Jan.2020-present Mapping Spatial Transcriptome of an Entire Vertebrate 
-
-MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
-
-Our project focuses on applying expansion sequencing technology to read out RNA expression profiles with subcellular resolution in the zebrafish brain. 
-
--  Designed and led the project to map the RNA expression profiles of the zebrafish brain.
-
-- Developed the imaging analysis (registration, stitching, segmentation) tools for terabyte level data in collaboration with a computer vision group.
-
-- Developed bioinformatic tools which selected cell type marker genes in R and Python.
+Cambridge, UK, 2018.1-2018.3 
 
 <br>
 
+# Internship
 
-### Feb.2022-May.2022  Towards photo-realistic face swapped videos
+### Enhancing 3D Object/Scene Generation from Sketches with Diffusion Model
+AR Perception Team, Google Inc.	
 
-MIT, Cambridge, MA [Course Project for 6.869 Computer Vision]
+Mountain View, CA, May.2023-Aug.2023
 
-The recent advances in face swapping techniques hold great potential in storytelling for ordinary people. Face swapping conceals the identities of interviewees while preserving their contagious facial expression. In this project, we presented methods to perform face swapping in the context of protecting the identities of Asian woman interviewees. We provided an entire pipeline to synthesize artificial Asian faces, applying face swapping and video super resolution methods to enhance the spatial resolution. We show that similarity scores for face shape enables us to find the best-matching source faces, which leads to the best face swapping results. We also showed that SimSwap trained with high resolution images generate realistic face swapped videos. Applying video super methods on these face swapped videos further enhance their resolution. We hope our methods allow individuals to share their personal growth and struggles with minimal privacy concern.
+Working on 3D object generation conditioned on text and user input sketches. This project involves training an encoder to capture 3D object representations, converting representations as implicit functions (neural radiance fields) to render high resolution objects, and training diffusion models to generate novel objects conditioned on text and sketch inputs. This project holds great potential for creating 3D assets for AR/VR applications.
 
-- Implemented SimSwap network structure to achieve face swapping with a high resolution.
+# Research Project
 
-- Compared various video super resolution methods and demonstrated their performance in enhancing synthesized video resolution.
+### Mapping Spatial Transcriptome of an Entire Vertebrate Brain                             
+[PhD thesis] MIT, Brain and Cognitive Sciences                                                                                      Jan.2020-present
+Produced and analyzed 30 TB of in situ RNA sequencing imaging data that involves image registration, stitching, customized puncta extraction and point cloud registration in Python.
+Bioinformatic analysis of zebrafish single nuclei RNA sequencing dataset which identifies cell type markers for ~50 neuronal clusters and correlative studies with spatial transcript localization information.
 
-<br>
+### Instance Segmentation of Unlabeled Modalities via Cyclic Segmentation GAN                         Feb. 2022-Dec.2022
+Provided data for benchmarking a novel Cyclic Segmentation Generative Adversarial Network (CySGAN) that conducts image translation and instance segmentation jointly using a unified framework. Our model achieves 3D neuronal nuclei segmentation of unlabeled expansion microscopy data with annotated electron microscopy images.
 
-### Feb.2022-May.2022  Solving American Put Option Prices with Dynamic Programming
+### AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool              
+[Undergrad thesis] MIT, Brain and Cognitive Sciences                                                                        Apr.2018-July.2022
+Spearheaded applying cutting-edge human pose estimation algorithm AlphaPose on tracking multiple mice
+Automated the analysis of their social interaction and individual behavioral motif with unsupervised clustering.
+Supervised the development of a web-based UI for inspecting tracking and behavioral clustering results.
+Cortical ensembles orchestrate social competition through hypothalamic outputs                                                                             
+### [Undergrad thesis] MIT, Brain and Cognitive Sciences                                                                        Apr.2018-Feb.2019
+Pioneered the discovery that the prefrontal-hypothalamic circuit regulates social dominance behavior with optogenetic approaches(involving stereotaxic brain surgeries), which leads to a major publication on Nature.
+Built a MATLAB GUI for scoring animal behavior with a video playback function.
 
-MIT, Cambridge, MA [Course Project for 6.231 Dynamic programming and reinforcement learning]
+### Large-scale imaging and data processing of zebrafish brain with calcium sensor and voltage-sensitive dye 
+Duke University, Dept. of Biomedical Engineering                                                                             July.2017-Aug.2017
+Adapted the algorithm principle/independence component analysis and constrained non-negative matrix factorization to process the calcium and voltage imaging data on the larval zebrafish brain.
 
-An option is a derivative contract that gives its owner the right but not the obligation to buy or sell an underlying asset. American options may exercise at any time before expiry. American option can be formulated as an optimal control MDP (Markov Decision Process) problem, where the underlying process is Geometric Brownian motion. In this project, we compared several methods for option pricing for option pricing. We show that the approximate value iteration and Q learning have the advantage over the naive approach for its better capturing the expected future return when establishing the mapping between current stock price, time and the option price. Q-learning has the computational advantage over approximate value iteration because the unbiased next state sampling. These methods generalized well from the single stock option to the multi-stock ETF pricing, with radial basis functions or the multi-layer perceptron as the basis function for computing features from high-dimension inputs. We demonstrated that dynamical programming methods prove a handy tool for option pricing.
+# Course Project
 
-- Synthesized stock price datasets by simulating trajectories with Brownian emotion.
+### Multi-View 6D Object Pose Refinement with Differentiable Rendering [6.s980 Machine Learning for Inverse Graphics]                                                                               Sept.2022-Dec.2023
+Designed loss function for refining object pose prediction with gradient descent that widens the basin of convergence by 1.5 fold. The loss function combines single-view level feature descriptors like photometric loss, structural similarity loss and perceptual loss, and object level pose differences for bundle adjustment.
 
-- Implemented approximate value iteration and approximate policy iteration algorithm to compute the optimal stopping policy.
+### Towards photo-realistic face swapped videos                                                    
+[6.869 Computer Vision] MIT, EECS                                                                                                  Feb.2022-May.2022
+Implemented a face swapping pipeline to protect the identities of Asian woman interviewees. The project involved synthesizing artificial faces with styleGAN, applying face swapping with SimSwap, followed by various video super resolution methods to enhance the spatial resolution and generate photo-realistic face-swapped videos.
 
-- Compared the performance of various base functions and multi-layer perceptron for approximating value function and Q function. 
+### Solving Put Option Prices with Dynamic Programming                                    
+[6.231 Dynamic programming and reinforcement learning] MIT, EECS                                            Feb.2022-May.2022
+Devised the approximate value iteration and approximate policy iteration algorithm to compute the optimal stopping policy for the American put option which shows significant improvement in performance than the vanilla algorithm.
+Compared the performance of different base functions and multi-layer perceptrons in approximating value / Q function in dynamical programming. Demonstrated its generalizability to option pricing for multi-stock indexes. 
 
-<br>
+### Affect Encoding in Word Embeddings                                                             
+[6.864 Natural Language Processing] MIT, EECS                                                                              Sept.2021-Nov.2021
+Investigated how different NLP models (eg. contextualized BERT) encode affect-related meaning and relate to human judgement with statistical tools (PCA, Spearman correlation, and logistic regression). 
+Demonstrated a contextualized BERT model fine-tuned with affect-value regression task outperformed vanilla models in the transfer learning and the few-shot learning scheme.
 
-### Sept.2021-Nov.2021. Affect Encoding in Word Embeddings
-
-MIT, Cambridge, MA. [Course Project for 6.864 Natural Language Processing]
-
-A growing research interest in Natural Language Processing (NLP) is investigating the meaning encoded in the word embeddings from large pre-trained models. We investigated how the affect-related meaning in English lexicon are encoded in popular word embeddings in NLP. The affect theory uses notions of valence, arousal and dominance as the three dimensions of affect meaning. In our project, we used the human labeled dataset as the ground truth, and performed various tests (e.g. PCA, Spearman correlation, and logistic regression) to investigate modern word embeddings' ability to encode affect meaning. Our results showed interesting correlations between several tested word embeddings and human affect senses. Furthermore, we fine-tuned a BERT-based model with affect-value regression task and applied it on a downstream affect-related task to study the effect of our affect intervention with transfer learning and few-shot learning. Embeddings from enhanced affect encoding had much better performance than vanilla BERT model. This result suggests that affective embeddings can be helpful on such sentiment-analysis tasks and the methodology of enhancing the affective dimensions of word embeddings can be applied generally in the specific domains of natural language processing.
-
-- Wrote dataloaders for various input datasets to different language models.
-
-- Demonstrated the utility of contextualized word embedding in encoding affect information in the few-shot learning scheme.
-
-<br>
-
-###  Apr.2018-July.2022. AlphaTracker: A Multi-Animal Tracking and Behavioral Analysis Tool
-
-MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
-
-Computer vision tools have emerged as a powerful tool to elevate behavioral research. This protocol describes a computer vision machine learning pipeline called AlphaTracker\cite{padilla2022cortical}, which has minimal hardware requirements and produces reliable tracking of multiple unmarked animals, as well as behavioral clustering. AlphaTracker combines a top-down pose-estimation software combined with unsupervised clustering to facilitate behavioral motif discovery that will accelerate behavioral research\cite{padilla2022cortical,Wiltschko2015-um,Pereira2020-ci}.  All steps of the protocol are provided as open-source software with graphic user interfaces or implementable with command-line prompts. Users with a graphical processing unit (GPU) can model and analyze animal behaviors of interest in less than a day. We also provide Jupyter Notebooks that can be run on cloud resources such as Google Colaboratory. 
-
-- Adapted multi-object tracking, pose estimation and unsupervised clustering algorithms for analyzing rodent social behavior.
-
-- Project leader
-
-- Supervised the development of a JavaScript and HTML based UI for result inspection and interactive correction of the tracking errors, which enables high-throughput behavioral analysis.
-
-<br>
-
-### Apr.2018-Feb.2019 Cortical ensembles orchestrate social competition through hypothalamic outputs
-
-MIT, Brain and Cognitive Sciences, Cambridge, MA [Research Project]
-
-Most social species self-organize into dominance hierarchies, which decreases aggression and conserves energy, but it is not clear how individuals know their social rank. We have only begun to learn how the brain represents social rank and guides behaviour on the basis of this representation. The medial prefrontal cortex (mPFC) is involved in social dominance in rodents and humans. Yet, precisely how the mPFC encodes relative social rank and which circuits mediate this computation is not known. We developed a social competition assay in which mice compete for rewards, as well as a computer vision tool (AlphaTracker) to track multiple, unmarked animals. A hidden Markov model combined with generalized linear models was able to decode social competition behaviour from mPFC ensemble activity. Population dynamics in the mPFC predicted social rank and competitive success. Finally, we demonstrate that mPFC cells that project to the lateral hypothalamus promote dominance behaviour during reward competition. Thus, we reveal a cortico-hypothalamic circuit by which the mPFC exerts top-down modulation of social dominance.
-
-- Advisor: Kay Tye, PhD
-
-- Performed sterotaxic surgeries on mice brain to inject optogenetic opsins in the mice brain which manipulates neural activities.
-
-- Developed behavioral readouts for studying social dominance with designed assays.
-
-- 
-
-<br>
 
 ### Jan.2018-Mar.2018 The electrophysiological properties of maturing hippocampal neurons
 
