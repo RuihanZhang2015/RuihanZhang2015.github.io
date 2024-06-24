@@ -8,7 +8,7 @@ permalink: "/cv/"
 
 ### Massachusetts Institute of Technology                                                                  
 
-Ph.D. in Media Arts and Sciences | GPA 5.0/5.0   
+Ph.D. in Media Arts and Sciences , GPA 5.0/5.0   
 
 Cambridge, MA, July 2021- Dec 2024 (Expected)
 
@@ -18,7 +18,7 @@ Selected Courses: Advances in Computer Vision, Advanced Natural Language Process
 
 ### Massachusetts Institute of Technology                                                                   
 
-M.S. in Media Arts and Sciences | GPA 4.85/5.0
+M.S. in Media Arts and Sciences , GPA 4.85/5.0
 
 Cambridge, MA, Sept 2019 - June 2021
 
