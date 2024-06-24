@@ -6,13 +6,32 @@ permalink: "/cv/"
 
 # EDUCATION
 
+### Massachusetts Institute of Technology                                                                  
+
+Ph.D. in Media Arts and Sciences | GPA 5.0/5.0   
+
+Cambridge, MA, Dec 2024 (Expected)
+
+Selected Courses: Advances in Computer Vision, Advanced Natural Language Processing, Dynamic Programming and Reinforcement Learning, Tissue vs Silicon in Machine Learning, Brain Algorithms
+
+### Massachusetts Institute of Technology — Media Lab                                                                           
+
+M.S. in Media Arts and Sciences | GPA 4.85/5.0
+
+Cambridge, MA, June 2021
+
+Selected Courses: Machine Learning, Information and Inference, Computational Biology: Genomes, Networks, Evolution, Fields, Forces, and Flows in Biological systems, Nucleic Acids
+
+
 ### 2015-2019 Shanghai Jiao Tong University
 
-- Bachelor in Life Science, Zhiyuan Honor Program
+Bachelor in Life Science, Zhiyuan Honor Program | GPA 93/100 ( Rank 1/7 )
+
+Shanghai, China, July 2019
+
+Zhiyuan Honor Program selects top 10% students of different majors, featuring interdisciplinary training and small classroom teaching.
     
-    Zhiyuan Honor Program selects top 10% students of different majors, featuring interdisciplinary training and small classroom teaching.
-    
-- GPA 93/100 ( Rank 1/7 )
+Selected Courses:  Mathematical Analysis, Linear Algebra, Physics, Physics Laboratory, Chemical Principle, Chemistry Laboratory, Biochemistry, Neurobiology, Genetics, Digital Signal Processing, Biostatiscs, Cell Biology, Biology Laboratory
 
 ### 2018.1-2018.3 St John’s College, University of Cambridge
 
