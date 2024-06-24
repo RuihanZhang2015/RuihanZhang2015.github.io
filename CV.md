@@ -4,7 +4,7 @@ title: ""
 permalink: "/cv/"
 ---
 
-# EDUCATION
+# Education
 
 ### PhD - Massachusetts Institute of Technology                                                                  
 - Ph.D. in Media Arts and Sciences, GPA 5.0/5.0   
@@ -101,7 +101,7 @@ Compared the performance of different base functions and multi-layer perceptrons
 - Demonstrated a contextualized BERT model fine-tuned with affect-value regression task outperformed vanilla models in the transfer learning and the few-shot learning scheme.
 
 
-# SKILLS
+# Skills
 - Research skills Stereotaxic surgery, Immunohistochemistry, Confocal imaging, qPCR, Patch clamping on cell culture, Optogenetic stimulation during behavioral assays, Biostatistics, Calcium/voltage imaging data analysis, Digital signal processing, GUI building for video scoring
 - Coding Language: Python, MATLAB, C++
 - Other skills: HTML, JavaScript; Adobe Illustrator, Adobe Photoshop, DaVinci, Final Cut Pro, Adobe Premiere
@@ -114,7 +114,7 @@ Compared the performance of different base functions and multi-layer perceptrons
 - Director of a documentary about MIT student life [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg), received more than 176,000 views on Bilibili, 2022.    
 - Director of a sci-fi film [Your Poetic AlphaFriend](https://www.youtube.com/watch?v=VLWN5po2utQ), received more than 40,000 views, 2019.                 
 
-# AWARDS & SCHOLARSHIP
+# Awards & Scholarships
 
 - 2013 National Olympiad in Informatics in Province, First prize, Jiangsu Province
 - 2014 China High School Biology Olympiad, First prize, Jiangsu Province
@@ -128,7 +128,7 @@ Compared the performance of different base functions and multi-layer perceptrons
     A very competitive scholarship sponsored by a Chinese entrepreneur Mr. Lixin Tang. Once awarded,  the   student will be sponsored annually until graduation.
     
 
-# PUBLICATION
+# Publication
 - Besier E., **Zhang, R.**, et al, 2024. RnR-ExM: Robust Non-rigid Registration Challenge for Expansion Microscopy Volumes. IEEE Tranactions on Medical Imaging 2024. 
 - Chen, Z., **Zhang, R.**, et. al., 2023. AlphaTracker: a multi-animal tracking and behavioral analysis tool. Frontiers in Behavioral Neuroscience, 17, p.1111908.
 - Lauenburg, L., Lin, Z., **Zhang, R.**, et al, 2023. 3D Domain Adaptive Instance Segmentation Via Cyclic Segmentation GANs. IEEE Journal of Biomedical and Health Informatics.
