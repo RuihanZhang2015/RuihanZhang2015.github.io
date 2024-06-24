@@ -9,13 +9,14 @@ Over the years, I have directed several films. Here are my favorites.
 # [敢杀我的马 学术版](https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click)
 This short, funny film was created by a group of graduate students using generative AI (text-to-image, image-to-video). In the film, we mock various phenomena in academia, such as publishing pressure, paper review process.
 
+<video src='https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click' width=180/>
 
-https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click
 
 # [Robotic Dog Finding me a Girlfriend](https://www.youtube.com/watch?v=LqRdht7AoTA)
 This is the most humorous film I've ever produced, featuring a comical tale of a robotic dog that assists its owner in finding a girlfriend. Remarkably, we managed to shoot the entire film in just 1.5 days, achieving a record for the quickest production of a short film. On the surface, the film appears to be about an AI-powered dog encouraging its owner to pursue a relationship. However, it's important to clarify that we do not endorse such behavior. We believe that intelligent individuals should focus on their own growth and decisions, rather than influencing others in their personal matters.
 
 <video src='https://www.youtube.com/watch?v=LqRdht7AoTA' width=180/>
+
 
 # [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg)
 This film talks about graduate student's experience at MIT. I was the director of this film. This film has 171,000 views on Bilibili by Jan 2024.
