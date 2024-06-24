@@ -6,7 +6,7 @@ permalink: "/cv/"
 
 # EDUCATION
 
-### Massachusetts Institute of Technology                                                                  
+### PhD - Massachusetts Institute of Technology                                                                  
 
 Ph.D. in Media Arts and Sciences , GPA 5.0/5.0   
 
@@ -16,7 +16,7 @@ Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr.
 
 Selected Courses: Advances in Computer Vision, Advanced Natural Language Processing, Dynamic Programming and Reinforcement Learning, Tissue vs Silicon in Machine Learning, Brain Algorithms
 
-### Massachusetts Institute of Technology                                                                   
+### Master - Massachusetts Institute of Technology                                                                   
 
 M.S. in Media Arts and Sciences , GPA 4.85/5.0
 
@@ -27,7 +27,7 @@ Supervised by [Dr. Ed Boyden](https://synthneuro.org/people/ed-boyden/) and [Dr.
 Selected Courses: Machine Learning, Information and Inference, Computational Biology: Genomes, Networks, Evolution, Fields, Forces, and Flows in Biological systems, Nucleic Acids
 
 
-### Shanghai Jiao Tong University
+### Bachelor - Shanghai Jiao Tong University
 
 Bachelor in Life Science, Zhiyuan Honor Program , GPA 93/100 ( Rank 1/7 )
 
@@ -37,7 +37,7 @@ Zhiyuan Honor Program selects top 10% students of different majors, featuring in
     
 Selected Courses:  Mathematical Analysis, Linear Algebra, Physics, Physics Laboratory, Chemical Principle, Chemistry Laboratory, Biochemistry, Neurobiology, Genetics, Digital Signal Processing, Biostatiscs, Cell Biology, Biology Laboratory
 
-### St John’s College, University of Cambridge
+### Exchange student - St John’s College, University of Cambridge
 
 Lent term exchange student, sponsored by St John’s College
 
