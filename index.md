@@ -9,6 +9,6 @@ My training in neuroscience shows me the power of eliciting emotion and thoughts
 
 At MIT, I founded the [MIT Film Makers Assocation](https://engage.mit.edu/fma/home/) in the hope to get my fellow MIT friends interested in expressing themselves and resonating with other souls across space and time. I organized the [first MIT AI for filmmaking hackathon](https://www.media.mit.edu/posts/mit-ai-for-filmmaking-hackathon-2023-brings-dreams-to-life/) and [the second iteration](https://engage.mit.edu/fma/about/). Hundreds of people participated in our hackathon, and we received sponsorship from top-tier startups. I was honored to co-organized the [Generative AI for visual arts workshop at CVPR 2024](https://cveu.github.io/).
 
-Feel free to contact me if you are interested in learning more: [ruihanzhang2015@gmail.com](mailto:ruihanzhang2015@gmail.com) or message me on Instagram(@ruihanzhang2015), or via [LinkedIn](https://www.linkedin.com/in/ruihan-zhang-45b434150/)
+Feel free to contact me if you are interested in learning more, email me at [ruihanzhang2015@gmail.com](mailto:ruihanzhang2015@gmail.com) or message me on Instagram(@ruihanzhang2015), or via [LinkedIn](https://www.linkedin.com/in/ruihan-zhang-45b434150/)
 
 ![My photo](DSC09165.JPG){: .align-center; width="50%"}
