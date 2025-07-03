@@ -6,17 +6,22 @@ permalink: "/film/"
 
 I directed my first short film after graduating high school in 2015, and that experience completely changed me. I still remember the film getting over 2,000 views within the first two hours on Tudou (a now-defunct Chinese video platform)—a number that felt surreal at the time. A family friend even told me that watching my film used up her entire internet data for the month. It was the first time I realized that a story living in my head could resonate so powerfully in others’. Filmmaking has been my greatest passion ever since. Every ~2 years, I create a new short film to explore philosophical questions I wrestle with—from how technology reshapes human connection to whether robotics can embody romance. If Lord Voldemort split his soul into horcruxes, I like to think I’ve poured a part of mine into every film I’ve made.
 
+## Founder, President @ MIT Film Makers Association
 In 2022, I founded the MIT Filmmakers Association and served as its first president. A little bit of my motivation: I’ve always believed that everyone has a story worth telling—storytelling is how we pass down experiences, wisdom, and emotion across people and generations. Yet when I looked around, I noticed that the internet was dominated by two groups: widely successful individuals whose stories naturally attract attention, and full-time content creators whose primary goal is to generate profit. The latter often tailor their content to entertainment trends, sometimes diluting deeper or more meaningful messages in the process. But there’s a vast group in between—people who have valuable life experience, insight, and hard-earned knowledge, but who aren’t widely known. These are people who know how to get into a good school, navigate the complexities of a Ph.D., or find balance between material success and spiritual fulfillment. Their stories matter too—but most of them don’t have the time, resources, or production support to turn those stories into shareable content. Videography, as it stands, can be expensive and time-consuming. The gear, the planning, the crew—it all adds up. My goal is to help lower the barrier to entry, so that more people can share meaningful stories and lived experience. MIT is a school with a strong engineering, I firmly believe we could leverage our engineerring strength into the power of speech.
 
+## Founder @ MIT AI Film Hack
 When DALL·E 2 first launched, even when it only supports simple images, I knew an exciting time arrives! I am curious to see how it would transform video making in a few years. So I initiated MIT AI Film Hackathon in 2023—a compeititon where people use AI tools to make 3 min long films. In the first iteration, most films were produced like PPT slides one frame after another. Even this I saw some people could already tell perfect stories with this. Since then, hundreds of people have joined us across three editions between 2023 to 2025, sharing incredible short films with ever growing quality that amazed me every year. 
 
 I still remember the wave of fear when Sora was first announced. I, too, questioned whether our hackathon which was scheduled to be held a few days later would soon feel obsolete—like people who proudly walked miles before the invention of the car. But as I watched the evolution of the hackathon films over time, I realized something important: while the technical quality has improved dramatically and the time required to produce a video has shortened, what truly sets any video apart would be the content.
 
 Here are the video playlist of the MIT AI Film Hacks:
 
-### [MIT AI Film Hack 2023](https://youtube.com/playlist?list=PLuKHvu886W1bTQIZI0rhR8gL57_sr9rvn&si=i0ws5_NwlZN-TiG6)
+**[MIT AI Film Hack 2023: Tell me your dream](https://youtube.com/playlist?list=PLuKHvu886W1bTQIZI0rhR8gL57_sr9rvn&si=i0ws5_NwlZN-TiG6)**
+I picked "tell me your dream" as the topic because a tool called "Deforum" creates continuous transitioning between frames, which creates a dreamy effect.
 
+** [MIT AI Film Hack 2024: Space I call home](https://www.youtube.com/watch?v=FPbWhjwU2wU&list=PLuKHvu886W1bzHDmicVYy91g0htZB-XLY) **
 
+** [MIT AI Film Hack 2025: Dance in Life](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7) **
 
 
 Here are my filmmaking journey:
