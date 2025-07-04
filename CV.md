@@ -4,7 +4,7 @@ title: ""
 permalink: "/cv/"
 ---
 
-# Education
+## Education
 
 ### PhD - Massachusetts Institute of Technology                                                                  
 - Ph.D. in Media Arts and Sciences, GPA 5.0/5.0   
@@ -48,7 +48,7 @@ employed neural radiance fields (NeRFs) to render high-resolution outputs. This 
 AR/VR content creation and digital asset generation.
 
 
-# Research Project
+## Research Project
 
 ### Mapping Spatial Transcriptome of an Entire Vertebrate Brain                             
 - [PhD thesis] MIT, Brain and Cognitive Sciences
@@ -96,7 +96,7 @@ AR/VR content creation and digital asset generation.
 - Developed MATLAB scripts to automate and accelerate cell counting from fluorescent images acquired from confocal microscopy.
 
 
-# Course Project
+## Course Project
 
 ### Multi-View 6D Object Pose Refinement with Differentiable Rendering 
 - [6.s980 Machine Learning for Inverse Graphics] MIT, EECS
@@ -121,12 +121,12 @@ Compared the performance of different base functions and multi-layer perceptrons
 - Demonstrated a contextualized BERT model fine-tuned with affect-value regression task outperformed vanilla models in the transfer learning and the few-shot learning scheme.
 
 
-# Skills
+## Skills
 - Research skills Stereotaxic surgery, Immunohistochemistry, Confocal imaging, qPCR, Patch clamping on cell culture, Optogenetic stimulation during behavioral assays, Biostatistics, Calcium/voltage imaging data analysis, Digital signal processing, GUI building for video scoring
 - Coding Language: Python, MATLAB, C++
 - Other skills: HTML, JavaScript; Adobe Illustrator, Adobe Photoshop, DaVinci, Final Cut Pro, Adobe Premiere
 
-# Activities
+## Activities
 - Organizer of the [Generative AI for Visual Arts Workshop](https://cveu.github.io/) at CVPR 2025.
 - Organizer of the [third MIT AI Film Hack](https://mitaifilmhack.com/) 2025.
 - Organizer of the [Generative AI for Visual Arts Workshop](https://cveu.github.io/) at CVPR 2024.
@@ -136,7 +136,7 @@ Compared the performance of different base functions and multi-layer perceptrons
 - Director of a documentary about MIT student life [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg), received more than 176,000 views on Bilibili, 2022.    
 - Director of a sci-fi film [Your Poetic AlphaFriend](https://www.youtube.com/watch?v=VLWN5po2utQ), received more than 40,000 views, 2019.                 
 
-# Awards & Scholarships
+## Awards & Scholarships
 
 - 2013 National Olympiad in Informatics in Province, First prize, Jiangsu Province
 - 2014 China High School Biology Olympiad, First prize, Jiangsu Province
@@ -150,7 +150,7 @@ Compared the performance of different base functions and multi-layer perceptrons
     A very competitive scholarship sponsored by a Chinese entrepreneur Mr. Lixin Tang. Once awarded, the student will be sponsored annually until graduation.
     
 
-# Publication
+## Publication
 - **Zhang, R.**, Yu, B., Min, J., et al. (2025). Generative AI for film creation: A survey of recent advances. In Proceedings of the
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 6267–6279).
 - **Zhang, R.** (2025). Mapping the spatial transcriptome across whole organisms (Doctoral dissertation, Massachusetts Institute of
