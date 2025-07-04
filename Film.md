@@ -14,14 +14,14 @@ When DALL·E 2 first launched, even when it only supports simple images, I knew 
 
 I still remember the wave of fear when Sora was first announced. I, too, questioned whether our hackathon which was scheduled to be held a few days later would soon feel obsolete—like people who proudly walked miles before the invention of the car. But as I watched the evolution of the hackathon films over time, I realized something important: while the technical quality has improved dramatically and the time required to produce a video has shortened, what truly sets any video apart would be the content.
 
-Here are the video playlist of the MIT AI Film Hacks:
+Here are the video playlists of the MIT AI Film Hacks:
 
 **[MIT AI Film Hack 2023: Tell me your dream](https://youtube.com/playlist?list=PLuKHvu886W1bTQIZI0rhR8gL57_sr9rvn&si=i0ws5_NwlZN-TiG6)**
 I chose “Tell Me Your Dream” as the theme for this hackathon because AI-generated images often contain imperfections and surreal hallucinations that resemble dreamlike scenes. Additionally, a tool called Deforum enables smooth transitions between frames, adding a disorienting, dreamlike quality to the visuals. We received 8 films during this hackathon. Among them, my favorite is [DOG: Dream of Galaxy](https://www.youtube.com/watch?v=qP5YojKFT78)
 
 **[MIT AI Film Hack 2024: Space I call home](https://www.youtube.com/watch?v=FPbWhjwU2wU&list=PLuKHvu886W1bzHDmicVYy91g0htZB-XLY)** This hackathon we have sponsorship from almost all the major genAI startups like Pika, Pixverse, Eleven Labs etc. We had 300 participants for this hackathon. At that time, the character consistency and spatial consistency of generated videos was very poor. I also thought if 3D generation could be the solution and also invited three major 3D gen startups like Luma AI, VAST AI and Meshy. I was very impressed by the film [Fish Tank](https://www.youtube.com/watch?v=35ZztAu_cqk) which showcases how 3D gen might help filmmaking. During this hackathon, one film impressed me with its creativity called [The Tale of Lipu Village](https://www.youtube.com/watch?v=gfBb2d05f1M). You can learn more about this year's hackathon at [this news blog from Media Lab](https://www.media.mit.edu/posts/mit-ai-for-filmmaking-hackathon-2024/)
 
-**[MIT AI Film Hack 2025: Dance in Life](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7)**
+**[MIT AI Film Hack 2025: Dance in Life](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7)** I picked this "dance" topic because I was hoping to challenge the motion consistency of existing tools and see how people can push the frontier. This year my favorite film is [THE CLOWN](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7) which blends real footage with AI generated footages. 
 
 ## My films
 
