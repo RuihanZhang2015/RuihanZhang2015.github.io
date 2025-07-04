@@ -97,6 +97,8 @@ AR/VR content creation and digital asset generation.
 - Performed qPCRs on the predicted targets of certain microRNAs and validated the identified targets with immunohistology.
 - Developed MATLAB scripts to automate and accelerate cell counting from fluorescent images acquired from confocal microscopy.
 
+<br>
+
 
 ## Course Project
 
@@ -123,10 +125,14 @@ Compared the performance of different base functions and multi-layer perceptrons
 - Demonstrated a contextualized BERT model fine-tuned with affect-value regression task outperformed vanilla models in the transfer learning and the few-shot learning scheme.
 
 
+<br>
+
 ## Skills
 - Research skills Stereotaxic surgery, Immunohistochemistry, Confocal imaging, qPCR, Patch clamping on cell culture, Optogenetic stimulation during behavioral assays, Biostatistics, Calcium/voltage imaging data analysis, Digital signal processing, GUI building for video scoring
 - Coding Language: Python, MATLAB, C++
-- Other skills: HTML, JavaScript; Adobe Illustrator, Adobe Photoshop, DaVinci, Final Cut Pro, Adobe Premiere
+- Other skills: HTML, JavaScript; Adobe Illustrator, Adobe Photoshop, DaVinci, Final Cut Pro, Adobe Premiere, CapCut
+
+<br>
 
 ## Activities
 - Organizer of the [Generative AI for Visual Arts Workshop](https://cveu.github.io/) at CVPR 2025.
@@ -137,6 +143,8 @@ Compared the performance of different base functions and multi-layer perceptrons
 - Founder and President of the [MIT Film Makers Association](https://engage.mit.edu/fma/home/), 2022
 - Director of a documentary about MIT student life [Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg), received more than 176,000 views on Bilibili, 2022.    
 - Director of a sci-fi film [Your Poetic AlphaFriend](https://www.youtube.com/watch?v=VLWN5po2utQ), received more than 40,000 views, 2019.                 
+
+<br>
 
 ## Awards & Scholarships
 
