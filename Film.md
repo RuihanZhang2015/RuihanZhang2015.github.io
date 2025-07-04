@@ -31,10 +31,13 @@ In addition to organizing the film hackathons, I also co-organized the  [CVEU wo
 Here is a full lists of films I made through out the years.
 
 **[重生之我在硅谷相亲](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3)** This is a short film series that makes fun of the dating life in sillion valley, we picked four represented men stereotypes. You can also search **湾区导演张emo** on Rednote if you want to learn more about me.
+
+<!-- 
 [第一集 普信男](https://www.youtube.com/watch?v=4n0su9RZ3NM&t=50s),
 [第二集 创业男](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3),
 [第三集 PhD男](https://www.youtube.com/watch?v=tXmgythnEI0),
 [第四集 大厂男](https://www.youtube.com/shorts/aLFDXXFlxSo?feature=share)
+-->
 
 
 **[敢杀我的马 学术版](https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click)**
