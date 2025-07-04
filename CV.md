@@ -47,6 +47,8 @@ diffusion model architecture with multimodal inputs. Trained an encoder to captu
 employed neural radiance fields (NeRFs) to render high-resolution outputs. This work has strong applications in
 AR/VR content creation and digital asset generation.
 
+<br>
+
 
 ## Research Project
 
