@@ -139,6 +139,10 @@ Compared the performance of different base functions and multi-layer perceptrons
     
 
 # Publication
+- **Zhang, R.**, Yu, B., Min, J., et al. (2025). Generative AI for film creation: A survey of recent advances. In Proceedings of the
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 6267–6279).
+- **Zhang, R.** (2025). Mapping the spatial transcriptome across whole organisms (Doctoral dissertation, Massachusetts Institute of
+Technology). 
 - Besier E., **Zhang, R.**, et al, 2024. RnR-ExM: Robust Non-rigid Registration Challenge for Expansion Microscopy Volumes. IEEE Tranactions on Medical Imaging 2024. 
 - Chen, Z., **Zhang, R.**, et. al., 2023. AlphaTracker: a multi-animal tracking and behavioral analysis tool. Frontiers in Behavioral Neuroscience, 17, p.1111908.
 - Lauenburg, L., Lin, Z., **Zhang, R.**, et al, 2023. 3D Domain Adaptive Instance Segmentation Via Cyclic Segmentation GANs. IEEE Journal of Biomedical and Health Informatics.
