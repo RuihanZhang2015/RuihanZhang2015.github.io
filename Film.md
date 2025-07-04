@@ -23,6 +23,8 @@ I chose “Tell Me Your Dream” as the theme for this hackathon because AI-gene
 
 **[MIT AI Film Hack 2025: Dance in Life](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7)** I picked this "dance" topic because I was hoping to challenge the motion consistency of existing tools and see how people can push the frontier. This year my favorite film is [THE CLOWN](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7) which blends real footage with AI generated footages. 
 
+In addition to organizing the film hackathons, I also co-organized the  [CVEU workshops](https://cveu.github.io/) at CVPR for two consecutive years. Alongside Anyi Rao, our goal was to build a vibrant community of AI-empowered storytellers. We envisioned a space where researchers, artists, students, and engineers could exchange ideas, share experiences, and even explore career opportunities. If you’re interested in joining this community, feel free to reach out via email!
+
 ## My films
 
 Here is a full lists of films I made.
