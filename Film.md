@@ -19,7 +19,7 @@ Here are the video playlist of the MIT AI Film Hacks:
 **[MIT AI Film Hack 2023: Tell me your dream](https://youtube.com/playlist?list=PLuKHvu886W1bTQIZI0rhR8gL57_sr9rvn&si=i0ws5_NwlZN-TiG6)**
 I chose “Tell Me Your Dream” as the theme for this hackathon because AI-generated images often contain imperfections and surreal hallucinations that resemble dreamlike scenes. Additionally, a tool called Deforum enables smooth transitions between frames, adding a disorienting, dreamlike quality to the visuals. We received 8 films during this hackathon. Among them, my favorite is [DOG: Dream of Galaxy](https://www.youtube.com/watch?v=qP5YojKFT78)
 
-**[MIT AI Film Hack 2024: Space I call home](https://www.youtube.com/watch?v=FPbWhjwU2wU&list=PLuKHvu886W1bzHDmicVYy91g0htZB-XLY)** This hackathon we have sponsorship from almost all the major genAI startups like Pika, Pixverse, Eleven Labs etc. At that time, the character consistency and spatial consistency of generated videos was very poor. I also thought if 3D generation could be the solution and also invited three major 3D gen startups like Luma AI, VAST AI and Meshy. I was very impressed by the film [Fish Tank](https://www.youtube.com/watch?v=35ZztAu_cqk)
+**[MIT AI Film Hack 2024: Space I call home](https://www.youtube.com/watch?v=FPbWhjwU2wU&list=PLuKHvu886W1bzHDmicVYy91g0htZB-XLY)** This hackathon we have sponsorship from almost all the major genAI startups like Pika, Pixverse, Eleven Labs etc. We had 300 participants for this hackathon. At that time, the character consistency and spatial consistency of generated videos was very poor. I also thought if 3D generation could be the solution and also invited three major 3D gen startups like Luma AI, VAST AI and Meshy. I was very impressed by the film [Fish Tank](https://www.youtube.com/watch?v=35ZztAu_cqk) which showcases how 3D gen might help filmmaking.
 
 **[MIT AI Film Hack 2025: Dance in Life](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7)**
 
@@ -27,7 +27,7 @@ I chose “Tell Me Your Dream” as the theme for this hackathon because AI-gene
 
 Here is a full lists of films I made.
 
-**[重生之我在硅谷相亲](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3)** This is a short film series that makes fun of the dating life in sillion valley, we picked four represented men stereotypes:
+**[重生之我在硅谷相亲](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3)** This is a short film series that makes fun of the dating life in sillion valley, we picked four represented men stereotypes. You can also search **湾区导演张emo** on Rednote if you want to learn more about me.
 [第一集 普信男](https://www.youtube.com/watch?v=4n0su9RZ3NM&t=50s),
 [第一集 创业男](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3),
 [第一集 PhD男](https://www.youtube.com/watch?v=tXmgythnEI0),
