@@ -30,7 +30,7 @@ In addition to organizing the film hackathons, I also co-organized the  [CVEU wo
 
 Here is a full lists of films I made through out the years.
 
-**[重生之我在硅谷相亲](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3)** This is a short film series that makes fun of the dating life in sillion valley, we picked four represented men stereotypes. You can also search **湾区导演张emo** on Rednote if you want to learn more about me.
+**[重生之我在硅谷相亲 My dating life in Sillicon Valley](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3)** This is a short film series that makes fun of the dating life in sillion valley, we picked four represented men stereotypes. You can also search **湾区导演张emo** on Rednote if you want to learn more about me.
 
 <!-- 
 [第一集 普信男](https://www.youtube.com/watch?v=4n0su9RZ3NM&t=50s),
