@@ -17,16 +17,15 @@ I still remember the wave of fear when Sora was first announced. I, too, questio
 Here are the video playlist of the MIT AI Film Hacks:
 
 **[MIT AI Film Hack 2023: Tell me your dream](https://youtube.com/playlist?list=PLuKHvu886W1bTQIZI0rhR8gL57_sr9rvn&si=i0ws5_NwlZN-TiG6)**
-I picked "tell me your dream" as the topic because a tool called "Deforum" creates continuous transitioning between frames, which creates a dreamy effect.
+I chose “Tell Me Your Dream” as the theme for this hackathon because AI-generated images often contain imperfections and surreal hallucinations that resemble dreamlike scenes. Additionally, a tool called Deforum enables smooth transitions between frames, adding a disorienting, dreamlike quality to the visuals. We received 8 films during this hackathon. Among them, my favorite is [DOG: Dream of Galaxy](https://www.youtube.com/watch?v=qP5YojKFT78)
 
-** [MIT AI Film Hack 2024: Space I call home](https://www.youtube.com/watch?v=FPbWhjwU2wU&list=PLuKHvu886W1bzHDmicVYy91g0htZB-XLY) **
+**[MIT AI Film Hack 2024: Space I call home](https://www.youtube.com/watch?v=FPbWhjwU2wU&list=PLuKHvu886W1bzHDmicVYy91g0htZB-XLY)**
 
-** [MIT AI Film Hack 2025: Dance in Life](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7) **
+**[MIT AI Film Hack 2025: Dance in Life](https://www.youtube.com/watch?v=P40Pg9ETzUc&list=PLuKHvu886W1YVlv0tLWchA7yENlZJPbx7)**
 
+## My films
 
-Here are my filmmaking journey:
-
-### [敢杀我的马 学术版](https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click)
+**[敢杀我的马 学术版](https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click)**
 This short, funny film was created by a group of graduate students using generative AI (text-to-image, image-to-video). In the film, we mock various phenomena in academia, such as publishing pressure, paper review process.
 
 
