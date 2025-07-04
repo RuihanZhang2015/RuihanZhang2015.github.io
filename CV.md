@@ -31,12 +31,23 @@ permalink: "/cv/"
 
 <br>
 
-# Internship
+## Work Experience
 
-### Enhancing 3D Object/Scene Generation from Sketches with Diffusion Model
-- AR Perception Team, Google Inc.	
-- Mountain View, CA, May.2023 - Aug.2023
-- Working on 3D object generation conditioned on text and user input sketches. This project involves training an encoder to capture 3D object representations, converting representations as implicit functions (neural radiance fields) to render high resolution objects, and training diffusion models to generate novel objects conditioned on text and sketch inputs. This project holds great potential for creating 3D assets for AR/VR applications.
+### Semantic Perception Team, XR, Google LLC Mountain View, CA
+Software Engineer Dec 2024 - Present
+• Enhanced text readability of an AI conversational agent on Google Glass to match human visual acuity, enabling
+low-vision users to access text more easily; featured in the Astra Aira Visual Interpreter at Google I/O 2025.
+• Designed and implemented a unified egocentric dialogue data synthesis pipeline to support for effective tool
+invocation during Gemini post-training, enabling advanced text-reading tasks such as on-demand high-resolution
+frame transmission and adaptive encoding.
+
+### AR Perception Team, XR, Google LLC. Mountain View, CA
+Software Engineer Intern May 2023 - Aug 2023
+• Developed a system for 3D object generation conditioned on text prompts and user-provided sketches, leveraging
+diffusion model architecture with multimodal inputs. Trained an encoder to capture 3D object representations and
+employed neural radiance fields (NeRFs) to render high-resolution outputs. This work has strong applications in
+AR/VR content creation and digital asset generation.
+
 
 # Research Project
 
