@@ -28,7 +28,7 @@ In addition to organizing the film hackathons, I also co-organized the  [CVEU wo
 
 ## My films
 
-Here is a full lists of films I made.
+Here is a full lists of films I made through out the years.
 
 **[重生之我在硅谷相亲](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3)** This is a short film series that makes fun of the dating life in sillion valley, we picked four represented men stereotypes. You can also search **湾区导演张emo** on Rednote if you want to learn more about me.
 [第一集 普信男](https://www.youtube.com/watch?v=4n0su9RZ3NM&t=50s),
@@ -42,7 +42,7 @@ This short, funny film was created by a group of graduate students using generat
 
 
 **[Robotic Dog Finding me a Girlfriend](https://www.youtube.com/watch?v=LqRdht7AoTA)**
-This is the most humorous film I've ever produced, featuring a comical tale of a robotic dog that assists its owner in finding a girlfriend. Remarkably, we managed to shoot the entire film in just 1.5 days, achieving a record for the quickest production of a short film. On the surface, the film appears to be about an AI-powered dog encouraging its owner to pursue a relationship. However, it's important to clarify that we do not endorse such behavior. We believe that intelligent individuals should focus on their own growth and decisions, rather than influencing others in their personal matters.
+This is the most humorous film I've ever produced, featuring a comical tale of a robotic dog that assists its owner in finding a girlfriend. Remarkably, we managed to shoot the entire film in just 1.5 days, achieving a record for the quickest production of a short film. On the surface, the film appears to be about an AI-powered dog encouraging its owner to pursue a relationship. However, it's important to clarify that we do not endorse such behavior. We believe that intelligent individuals should focus on their own growth and decisions, rather than influencing others in their personal matters. Great thanks to Boyuan Chen for his tele operate the robotics dog.
 
 
 **[Decode MIT](https://www.youtube.com/watch?v=uHGVZoZ4KLg)**
