@@ -117,7 +117,8 @@ Compared the performance of different base functions and multi-layer perceptrons
 - Other skills: HTML, JavaScript; Adobe Illustrator, Adobe Photoshop, DaVinci, Final Cut Pro, Adobe Premiere
 
 # Activities
-- Organizer of the [Generative AI for Visual Arts Workshop](https://cveu.github.io/) at CVPR 2024.
+- Organizer of the [Generative AI for Visual Arts Workshop](https://cveu.github.io/) at CVPR 2025.
+- Organizer of the [third MIT AI Film Hack](https://mitaifilmhack.com/) 2025.
 - Organizer of the [Generative AI for Visual Arts Workshop](https://cveu.github.io/) at CVPR 2024.
 - Chief organizer of the [second MIT AI for Filmmaking Hackathon](https://www.media.mit.edu/posts/mit-ai-for-filmmaking-hackathon-2024/), 2024
 - Chief organizer of the [first MIT AI for Filmmaking Hackathon](https://www.media.mit.edu/posts/mit-ai-for-filmmaking-hackathon-2023-brings-dreams-to-life/), 2023
