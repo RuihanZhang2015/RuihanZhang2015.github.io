@@ -25,6 +25,15 @@ I chose “Tell Me Your Dream” as the theme for this hackathon because AI-gene
 
 ## My films
 
+Here is a full lists of films I made.
+
+**[重生之我在硅谷相亲](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3)**
+[Ep1 普信男](https://www.youtube.com/watch?v=4n0su9RZ3NM&t=50s)
+[Ep2 创业男](https://www.youtube.com/watch?v=1D78eJgFz1U&list=PL6rJy6NYiBpymO1s2cOcDNiWCtQg_Z_u3)
+[Ep3 PhD男](https://www.youtube.com/watch?v=tXmgythnEI0)
+[Ep4 大厂男](https://www.youtube.com/shorts/aLFDXXFlxSo?feature=share)
+
+
 **[敢杀我的马 学术版](https://www.bilibili.com/video/BV1tE421T7n7/?spm_id_from=333.337.search-card.all.click)**
 This short, funny film was created by a group of graduate students using generative AI (text-to-image, image-to-video). In the film, we mock various phenomena in academia, such as publishing pressure, paper review process.
 
